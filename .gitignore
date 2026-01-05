@@ -1,0 +1,10 @@
+*.tif
+*.zip
+*.shp
+*.tif.ovr
+/docs/Lectures/Week10_multiple_bands/landsat.tif
+/docs/Lectures/Week13_CreatingCustom_Tools/band_tool_arcgispro
+/docs/Lectures/Week13_CreatingCustom_Tools/rs
+/docs/Labs/Lab8_update/band_tool_arcgispro
+/docs/Labs/Lab8_update/rs
+/docs/Lectures/Week13_CreatingCustom_Tools/Results

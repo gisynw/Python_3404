@@ -1,0 +1,127 @@
+site_name: Yanan Wu Teaching GEOG 286&386
+site_description: Yanan Wu Teaching GEOG 286&386
+site_author: Yanan Wu
+site_url: https://gisynw.github.io/geog386/
+copyright: "Copyright &copy; 2024 - 2025 Yanan Wu"
+
+# Repository
+repo_name: gisynw/geog386
+repo_url: https://github.com/gisynw/geog386.git
+
+# Configuration
+theme:
+  language: en
+  palette:
+    - scheme: default
+      primary: gray
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    # - toc.integrate
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - search.share
+  # custom_dir: "docs/overrides"
+  font:
+    text: Google Sans
+    code: Regular
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/gisynw/geog386.git
+    # - icon: fontawesome/brands/google-scholar
+    # link: https://scholar.google.com/citations?user=wdkZhlwAAAAJ
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/giswu
+    # - icon: fontawesome/brands/instagram
+    #   link: https://www.instagram.com/c17hawke/
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js #?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - open-in-new-tab
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  - mkdocs-pdf
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: True
+      allow_errors: false
+      ignore: ["conf.py"]
+      #   execute: True
+
+nav:
+    - Home: index.md
+    - Syllabus:
+      - Syllabus Spring 2025: "Content/Spring2025_syllabus.ipynb"
+    - Softwares:
+      - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
+      - ArcGIS Pro: "software/ArcGISPro.ipynb"
+      - Anaconda: "software/Anaconda.ipynb"
+    - Lectures:
+      - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
+      - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
+      - Week 3 Python Fundamental 2: "Lectures/Week03/Week03Fundamental02.ipynb"
+      - Week 4 Pandas: "Lectures/Week04/Student_Week04_Pandas.ipynb"
+      - Week 5 Data Visualization: "Lectures/Week05_visualization/Student_Week05_visualization.ipynb"
+      - Week 6 Data Visualization Part 02: "Lectures/Week06_visualizationPart02/Week06_Data_Visualization.ipynb"
+      - Week 7 Spatial Analysis in Arcpy: "Lectures/Week07/Week07_Arcpy.ipynb"
+      - Week 10 Raster: "Lectures/Week10_Geopandas_Raster/Week10_raster_Student.ipynb"
+      # - Week 10 Raster Part 2: "Lectures/Week10_multiple_bands/Week10_instructor.ipynb"
+      # - Week 11 Custom Tool in ArcGIS Pro: "Lectures/Week11_CreatingCustom_Tools/scripts/Week11_custom_tool.ipynb"
+      # - Week 12 geemap in Python: "Lectures/Week12/geemap.ipynb"
+      # - Week 13 Version Control: "Lectures/Week13/week13.ipynb"
+
+    - Demo:
+      - Week 1 Demo: "Demo/Week01_Python_Intro.ipynb"
+      # - Week 6 Demo: "Demo/Week06_visualization_Demo.ipynb"
+    - Labs:
+      - Lab 01: "Labs/Lab01/Lab01_student.ipynb"
+      - Lab 02: "Labs/Lab02/Lab02_student.ipynb"
+      - Lab 03: "Labs/Lab03/Lab03_student.ipynb"
+      - Lab 04: "Labs/Lab04/Lab04_student.ipynb"
+      - Lab 05: "Labs/Lab05_arcpy/Lab5_Student.ipynb"
+      # - Lab 08: "Labs/Lab08/Lab08_Student.ipynb"
+      # - Lab 09: "Labs/Lab09/Lab09.ipynb"
+      # - Lab 10: "Labs/Lab10/Lab10.pdf"
+      # - Lab 11: "Labs/Lab11/Lab11.pdf"
+ 
