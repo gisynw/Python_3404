@@ -1,0 +1,1001 @@
+,X,Y,id,spp_com,spp_bot,numberof_st,dbh_range,dbh,date_plant,city,neighborhood,address,street,suffix,site,x_longitude,y_latitude,ObjectId
+949,-7921659.272000001,5202712.687,40035,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,23,spring st,,1,-71.16148000000001,42.27799,38295
+36089,-7909474.686000001,5217447.285,7843,"Oak, Pin",Quercus palustris,1,12-18in,15.0,--,--,Charlestown,100,9th Street,,3,-71.05202,42.37585,9145
+13377,-7915349.016,5204330.2069999995,21547,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Mattapan,528,American Legion Highway,,9,-71.10479000000001,42.288740000000004,20661
+25578,-7914812.456,5212363.217,11281,"Oak, Northern Red",Quercus rubra,1,6-12in,8.0,--,Boston,Fenway/Longwood,105,Queensberry Street,,4,-71.09997,42.3421,10838
+6365,-7911297.76,5218602.823,2738,"Hackberry, Northern",Celtis occidentalis,1,0-3in,2.0,Spring 2023,--,Charlestown,486,Medford Street,,1,-71.0684,42.383520000000004,3473
+24672,-7912829.856000001,5201631.433999999,31358,"Elm, American",Ulmus americana,1,6-12in,8.0,--,Boston,Mattapan,10,Leahaven Road,,1,-71.08216,42.27081,31850
+18904,-7910277.856000001,5202957.629,17422,Apple/Crabapple,Malus species,1,3-6in,5.0,--,Boston,Dorchester,927,Adams Street,,1,-71.05923,42.27962,17189
+25516,-7915172.017999999,5211241.258,24391,"Maple, Red",Acer rubrum,1,6-12in,8.0,--,Boston,Mission Hill,698,Huntington Avenue,,1,-71.1032,42.33465,23761
+30317,-7911373.797,5217915.937,5877,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,11.0,--,--,Charlestown,3,Essex Street,,1,-71.06908,42.37896,6648
+18611,-7909899.927,5208972.444,35730,Serviceberry,Amelanchier species,1,3-6in,4.0,--,Boston,Dorchester,17,Buttonwood Street,,1,-71.05584,42.31958,35730
+40548,-7910761.094,5206366.118,18523,"Maple, Norway",Acer platanoides,1,18-24in,20.0,--,Boston,Dorchester,242,Westville Street,,1,-71.06358,42.30227,19207
+20292,-7919958.0879999995,5202882.1,34356,"Maple, Hedge",Acer campestre,1,3-6in,5.0,--,Boston,West Roxbury,354,Park Street,,2,-71.14619,42.27912,34061
+1566,-7914449.554,5204719.958000001,37872,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Mattapan,378,American Legion Highway,-368,1,-71.09671,42.29133,39747
+14299,-7910481.0139999995,5205203.3319999995,1700,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,Dorchester,10,Elm Lawn Street,,1,-71.06106,42.294540000000005,2159
+6046,-7910428.694,5213447.352,7898,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,--,Central Boston,116,Hudson Street,,1,-71.06059,42.3493,9632
+39632,-7912559.906,5214089.789,7913,"Linden, Littleleaf",Tilia cordata,1,18-24in,19.0,--,--,Back Bay/Beacon Hill,246,Beacon Street,,1,-71.07973,42.35357,9654
+13151,-7911239.1,5215123.955,3112,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,22,Anderson Street,,2,-71.06787,42.36043,3077
+8957,-7915619.522000001,5211908.846,27212,"Maple, Red",Acer rubrum,1,0-3in,2.0,Spring 2022,Boston,Fenway/Longwood,399,Brookline Avenue,,1,-71.10722,42.339079999999996,26121
+116,-7910541.127,5215218.865,8882,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,--,Central Boston,100,Cambridge Street,,1,-71.0616,42.361059999999995,8665
+31861,-7912353.408,5211801.166999999,28419,"Pagoda Tree, Japanese",Sophora japonica,1,12-18in,12.0,--,Boston,South End,116,West Springfield Street,,2,-71.07788000000001,42.33837,27785
+33352,-7907598.953,5216632.848999999,2472,"Pear, Callery",Pyrus calleryana,1,12-18in,13.0,--,--,East Boston,100,Gove Street,,2,-71.03517,42.37045,1433
+41462,-7912028.355,5212870.477,28854,"Basswood, American",Tilia americana,1,18-24in,22.0,--,Boston,South End,85,Dartmouth Street,,1,-71.07496,42.34547,29113
+21257,-7920906.085,5203065.96,34401,"Coffeetree, Kentucky",Gymnocladus dioicus,1,6-12in,6.0,--,Boston,West Roxbury,23,Maxfield Street,,2,-71.15471,42.28034,34074
+18481,-7911600.8889999995,5213538.18,7388,"Pear, Callery",Pyrus calleryana,1,3-6in,4.0,--,--,Back Bay/Beacon Hill,333,Stuart Street,,11,-71.07112,42.3499,7356
+32662,-7913720.4120000005,5210229.048,23135,Honeylocust,Gleditsia triacanthos,1,12-18in,13.0,--,Boston,Roxbury,42,Lambert Street,,1,-71.09016,42.32793,24031
+19351,-7912710.187000001,5202151.961,21859,"Elm, Valley Forge",Ulmus americana 'Valley Forge',1,3-6in,5.0,--,Boston,Mattapan,72,Woodruff Way,,1,-71.08109,42.27427,20916
+29948,-7911913.696,5212047.851,327,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,South End,1420,Shawmut Avenue,,4,-71.07393,42.34001,821
+36557,-7910000.114,5216308.752,4054,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,--,Central Boston,560,Commercial Street,,1,-71.05674,42.36829,3914
+17496,-7912068.43,5206617.477,221,"Linden, Silver",Tilia tomentosa,1,3-6in,4.0,--,Boston,Dorchester,47,Rosseter Street,-49,1,-71.07531999999999,42.303940000000004,715
+29579,-7919403.272000001,5203412.325,11609,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,Boston,Roslindale,64,Westbourne Street,,1,-71.14121,42.28264,11282
+2571,-7906981.686000001,5217901.471,3492,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,--,East Boston,68,Prescott Street,,1,-71.02962,42.378859999999996,4391
+37363,-7908853.522999999,5208947.152,19750,"Planetree, London",Platanus x acerifolia,1,12-18in,16.0,--,Boston,Dorchester,250,Mount Vernon Street,,2,-71.04644,42.31942,17689
+7337,-7910818.91,5215785.954,3758,"Hophornbeam, Eastern",Ostrya virginiana,1,0-3in,2.0,Spring 2024,--,Central Boston,150,Lomasney Way,,1,-71.06409000000001,42.36482,2718
+37058,-7907842.742000001,5210722.491,25531,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,South Boston,365,K Street,,1,-71.03735999999999,42.33121,25450
+14827,-7916280.76,5213646.782,26686,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,Brookline,Allston-Brighton,846,Commonwealth Avenue,,1,-71.11316,42.35062,26402
+10331,-7912374.558999999,5212600.879,29177,"Oak, Swamp White",Quercus bicolor,1,0-3in,2.0,--,Boston,South End,465,Columbus Avenue,,2,-71.07807,42.34368,28179
+40840,-7910741.502,5218286.054,829,"Basswood, American",Tilia americana,1,18-24in,21.0,--,--,Charlestown,60,Cook Street,,1,-71.0634,42.38142,1828
+42257,-7917274.842999999,5204648.929,12204,"Pear, Callery",Pyrus calleryana,1,18-24in,23.0,--,Boston,Roslindale,26,Bradeen Street,,1,-71.12209,42.290859999999995,11634
+3452,-7915668.503,5201311.761,20026,Goldenrain Tree,Koelreuteria paniculata,3,0-3in,1.0,--,Boston,Hyde Park,78,Ruskindale Road,,1,-71.10766,42.268679999999996,17992
+23770,-7916570.191000001,5202535.453,38201,"Maple, Freeman",Acer x freemanii,1,6-12in,7.0,--,Boston,Roslindale,38,Wilmot Street,,3,-71.11576,42.27681,37605
+16690,-7910449.845,5218129.175,4374,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,--,Charlestown,240,Medford Street,,4,-71.06078000000001,42.38037,4218
+13590,-7912581.168,5206908.579,31414,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Dorchester,135,Columbia Road,,2,-71.07993,42.30587,31880
+41554,-7904212.057,5218768.462,3561,"Linden, Littleleaf",Tilia cordata,1,18-24in,22.0,--,--,East Boston,55,Bayswater Street,,1,-71.00475,42.38462,2529
+39058,-7920964.527000001,5211866.226,23508,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,Allston-Brighton,1931,Commonwealth Avenue,,7,-71.15524,42.3388,24377
+31287,-7912928.485,5210111.602,655,"Linden, Littleleaf",Tilia cordata,1,12-18in,12.0,--,Boston,Roxbury,96,Warren Street,B,1,-71.08305,42.32715,1629
+31466,-7905311.337,5218313.18,4430,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,--,East Boston,151,Cowper Street,,1,-71.01462,42.3816,4200
+36026,-7908919.2020000005,5211299.687,26778,"Maple, Red",Acer rubrum,1,12-18in,15.0,--,Boston,South Boston,133,Dorchester Street,,1,-71.04703,42.33504,26449
+16927,-7912638.831,5202451.051,21961,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Mattapan,130,Standard Street,,1,-71.08044,42.27625,21010
+13267,-7911173.422,5213799.068,7696,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,--,Central Boston,1,Charles Street South,,9,-71.06728000000001,42.35163,9033
+15897,-7917513.067000001,5201146.287,20609,"Cherry, Japanese Flowering",Prunus serrulata,1,3-6in,4.0,--,Boston,Hyde Park,139,Windham Road,,1,-71.12423000000001,42.26758,22468
+31046,-7907715.8379999995,5217794.6280000005,5451,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,--,East Boston,97,Lexington Street,,1,-71.03622,42.37815,6641
+7462,-7910886.217,5217629.62,4217,"Hornbeam, American",Carpinus caroliniana,1,0-3in,2.0,Spring 2024,Boston,Charlestown,74,High Street,,1,-71.0647,42.37706,4073
+27652,-7916152.742000001,5205892.919,34905,Elm,Ulmus species,1,6-12in,10.0,--,Boston,Jamaica Plain,37,Tower Street,,1,-71.11201,42.29913,34167
+926,-7922393.981000001,5203851.393,40045,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,328,Vermont Street,,1,-71.16808,42.28556,38265
+37151,-7911086.592,5205694.255,18384,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,12-18in,16.0,--,Boston,Dorchester,69,Waldeck Street,,1,-71.0665,42.29781,19169
+23867,-7911750.502,5212995.79,28679,"Maple, Norway",Acer platanoides,1,6-12in,7.0,--,Boston,South End,86,Chandler Street,,1,-71.07245999999999,42.3463,28627
+24112,-7912115.741,5205269.399,35372,"Oak, Scarlet",Quercus coccinea,1,6-12in,7.0,--,Boston,Dorchester,2,Thane Street,,2,-71.07574,42.294979999999995,36757
+16036,-7910027.276000001,5212331.289,25346,"Coffeetree, Kentucky",Gymnocladus dioicus,1,3-6in,4.0,--,Boston,South Boston,150,Dorchester Avenue,,3,-71.05698000000001,42.34189,25221
+8140,-7909404.555,5203293.608,40505,"Linden, Silver",Tilia tomentosa,1,0-3in,2.0,Spring 2021,Boston,Dorchester,60,Saint Brendan Road,,1,-71.05139,42.28185,40297
+28100,-7908756.676,5211575.272,26811,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,Boston,South Boston,322,West 3rd Street,,2,-71.04557,42.336870000000005,26814
+19783,-7911005.329,5211880.985,27848,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,South End,500,Albany Street,,11,-71.06577,42.3389,29418
+5548,-7910813.86,5205453.155,31856,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,0-3in,2.0,--,Boston,Dorchester,4,Centervale Park,,2,-71.06405,42.2962,30223
+17914,-7907701.367000001,5211266.557,26373,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,South Boston,714,East 4th Street,,1,-71.03609,42.33482,26849
+23257,-7920848.199,5204009.39,34632,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,7.0,--,Boston,West Roxbury,1857,Centre Street,,1,-71.15419,42.286609999999996,33658
+3628,-7912007.873,5211279.2069999995,10543,"Linden, Littleleaf",Tilia cordata,1,0-3in,1.0,--,Boston,South End,784,Massachusetts Avenue,,5,-71.07478,42.3349,11070
+4518,-7912224.965,5205365.374,42576,"Cherry, Sargent",Prunus sargentii,1,0-3in,2.0,Spring 2022,Boston,Dorchester,39,Spencer Street,,1,-71.07673,42.29562,40662
+8971,-7912309.994,5212405.086,29185,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,Boston,South End,145,West Newton Street,,1,-71.07749,42.34238,28170
+27931,-7918227.293,5213963.407,9650,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,Boston,Allston-Brighton,114,Brighton Avenue,,1,-71.13065,42.35273,7568
+4702,-7909205.727999999,5211385.856000001,38877,"Chokecherry, Canada Red",Prunus virginiana 'Canada Red',1,0-3in,2.0,Fall 2021,Boston,South Boston,249,West Fifth Street,,1,-71.04961,42.335609999999996,39280
+15294,-7921029.649,5205177.146000001,14349,Serviceberry,Amelanchier species,1,3-6in,3.0,--,Boston,West Roxbury,220,Manthorne Road,,1,-71.15581999999999,42.29437,14510
+17095,-7914852.976,5212787.6389999995,30316,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Fenway/Longwood,136,Brookline Avenue,,2,-71.10033,42.34492,31118
+15488,-7908125.494,5211325.287,30867,Tulip Tree,Liriodendron tulipifera,1,3-6in,3.0,--,Boston,South Boston,88,I Street,,1,-71.0399,42.33521,32074
+12341,-7912514.822000001,5207182.983,32326,"Cherry, Japanese Flowering",Prunus serrulata,2,3-6in,3.0,--,Boston,Dorchester,40,Oldfields Road,,1,-71.07933,42.3077,31707
+16828,-7911718.219,5211629.034,10770,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,South End,778,Harrison Avenue,,2,-71.07217,42.33723,12257
+16253,-7913442.113,5211025.616,24690,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,Roxbury,100,Cabot Street,,4,-71.08766,42.333220000000004,22600
+43345,-7922339.88,5201887.481000001,12696,"Linden, Littleleaf",Tilia cordata,1,24-30in,28.0,--,Boston,West Roxbury,103,Laurie Avenue,,2,-71.16759,42.27251,13161
+28787,-7911646.529,5211628.432,30255,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,10.0,--,Boston,South End,732,Harrison Avenue,,5,-71.07153000000001,42.33722,31064
+20717,-7908831.056,5213985.039,46598,"Oak, Pin",Quercus palustris,1,3-6in,5.0,--,Boston,South Boston,7,Fan Pier Blvd,,1,-71.04624,42.35287,42605
+21525,-7917914.93,5207361.658,15529,"Elm, Frontier",Ulmus x 'Frontier',1,6-12in,6.0,--,Boston,Jamaica Plain,19,Driftwood Road,,2,-71.12784,42.30888,16077
+29524,-7911704.416,5213630.665,7136,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,--,Back Bay/Beacon Hill,30,St James Avenue,,1,-71.07205,42.35052,6893
+23314,-7911034.272000001,5211889.267,33000,"Elm, Chinese",Ulmus parvifolia,1,6-12in,7.0,--,Boston,South End,519,Albany Street,,2,-71.06603,42.33895,33402
+26581,-7913587.941000001,5213110.712,28121,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,Boston,Fenway/Longwood,1087,Boylston Street,,1,-71.08896999999999,42.34706,29909
+25503,-7909563.742000001,5212703.898,20844,"Maple, Red",Acer rubrum,1,6-12in,8.0,--,Boston,South Boston,168,A Street,,1,-71.05282,42.344359999999995,20302
+19568,-7913142.663,5213271.123,7168,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,--,Back Bay/Beacon Hill,927,Boylston Street,,1,-71.08497,42.34813,7110
+14528,-7908003.043,5210994.746,31487,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,South Boston,547,East Sixth Street,,2,-71.0388,42.33302,31976
+26363,-7911401.627,5218220.348,2456,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,--,Charlestown,20,Auburn Street,A,1,-71.06933000000001,42.38098,1418
+7707,-7911044.291,5207105.463,19395,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,--,Boston,Dorchester,276,Bowdoin Street,,1,-71.06612,42.307179999999995,19312
+35188,-7907217.795,5217777.901000001,32749,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,15.0,--,--,East Boston,140,Putnam Street,,1,-71.03175,42.378040000000006,33165
+41666,-7913343.039,5211263.093,24954,"Linden, Silver",Tilia tomentosa,1,18-24in,22.0,--,Boston,Roxbury,40,Raynor Circle,,1,-71.08677,42.3348,22868
+8578,-7918978.225,5204493.717,42557,"Maple, Hedge",Acer campestre,1,0-3in,2.0,Fall 2021,Boston,Roslindale,59,Fletcher Street,,1,-71.13739,42.28983,40674
+42120,-7922229.6729999995,5202113.597,12728,"Linden, Silver",Tilia tomentosa,1,18-24in,23.0,--,Boston,West Roxbury,148,Laurie Avenue,,1,-71.1666,42.27401,13265
+34059,-7912898.874,5208318.462,22536,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,Roxbury,7,Holborn Street,,1,-71.08278,42.31524,22340
+15045,-7915458.554,5212939.761,28897,"Oak, Swamp White",Quercus bicolor,1,3-6in,3.0,--,Boston,Fenway/Longwood,6,Keswick Street,,1,-71.10576999999999,42.345929999999996,29650
+14769,-7915708.578,5204036.475,11428,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,Boston,Roslindale,570,American Legion Highway,,1,-71.10802,42.28679,10926
+6923,-7908065.381,5211502.083000001,26240,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,South Boston,507,East 3rd Street,,1,-71.03936,42.33638,26511
+44072,-7919947.624,5203066.261,13259,"Planetree, London",Platanus x acerifolia,1,>30in,40.0,--,Boston,West Roxbury,197,Stratford Street,,1,-71.1461,42.28034,14643
+22430,-7909510.865,5212682.661,25076,"Maple, Red",Acer rubrum,1,6-12in,6.0,--,Boston,South Boston,169,A Street,,3,-71.05235,42.34422,22958
+39367,-7916765.0,5207359.55,34812,"Zelkova, Japanese",Zelkova serrata,1,18-24in,18.0,--,Boston,Jamaica Plain,802,Centre Street,,1,-71.11751,42.30887,34137
+26156,-7917306.012,5197204.353,20796,"Ash, White",Fraxinus americana,2,6-12in,9.0,--,Boston,Hyde Park,127,Needham Road,,2,-71.12236999999999,42.24137,20207
+8975,-7912201.457,5208068.563999999,29705,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,Boston,Dorchester,152,Quincy Street,,3,-71.07652,42.31358,28792
+10393,-7911203.477999999,5203752.081,38461,"Oak, Swamp White",Quercus bicolor,1,0-3in,2.0,Spring 2024,Boston,Dorchester,10,Burt Street,,1,-71.06755,42.2849,37820
+10921,-7916166.101,5201322.742,20041,Serviceberry,Amelanchier species,1,0-3in,2.0,Spring 2023,Boston,Hyde Park,23,Tacoma Street,,1,-71.11213000000001,42.26875,17956
+36849,-7918184.323,5201870.783,20979,"Linden, Littleleaf",Tilia cordata,1,12-18in,16.0,--,Boston,Roslindale,18,Bateman Street,,1,-71.13025999999999,42.2724,20407
+41147,-7920714.058999999,5202154.217,12873,"Maple, Norway",Acer platanoides,1,18-24in,21.0,--,Boston,West Roxbury,9,Deroma Road,,1,-71.15298,42.27428,13306
+7364,-7911774.547,5212455.691000001,10893,"Hophornbeam, Eastern",Ostrya virginiana,1,0-3in,2.0,--,Boston,South End,42,Upton Street,,2,-71.07268,42.34272,11926
+33908,-7909572.091,5215294.945,4035,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,--,Central Boston,79,Commercial Street,,1,-71.05289,42.36156,3797
+31643,-7919901.982999999,5204823.945,15044,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,12-18in,12.0,--,Boston,West Roxbury,33,Peak Hill Road,,1,-71.14569,42.29202,13958
+38917,-7906287.609,5217858.975,42079,"Linden, Littleleaf",Tilia cordata,1,18-24in,18.0,--,Boston,East Boston,51,Neptune Road,,1,-71.02339,42.37858,41422
+39647,-7921910.632,5201638.956,12771,"Linden, Littleleaf",Tilia cordata,1,18-24in,19.0,--,Boston,West Roxbury,18,Glenhaven Road,,3,-71.16373,42.27085,13245
+10458,-7920882.708,5202473.166999999,41794,"Oak, Swamp White",Quercus bicolor,1,0-3in,2.0,Spring 2022,Boston,West Roxbury,132,Saint Theresa Avenue,,1,-71.1545,42.2764,41954
+41509,-7918385.255,5201424.585,21096,Honeylocust,Gleditsia triacanthos,1,18-24in,22.0,--,Boston,Hyde Park,615,Poplar Street,,1,-71.13206,42.26943,20489
+19776,-7911820.187999999,5211132.533,27577,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,South End,775,Albany Street,,3,-71.07309000000001,42.33393,28014
+9645,-7904180.331,5219178.401000001,37855,"Oak, Northern Red",Quercus rubra,1,0-3in,2.0,Spring 2021,--,East Boston,0,Bennington Street,,2,-71.00446,42.38734,39764
+23972,-7911663.895,5206329.995,19273,"Maple, Silver",Acer saccharinum,1,6-12in,7.0,--,Boston,Dorchester,93,Bowdoin Street,,2,-71.07169,42.30203,18732
+5645,-7914486.29,5213377.312,6828,"Elm, American",Ulmus americana,1,0-3in,2.0,--,--,Fenway/Longwood,2234,Beacon Street,,4,-71.09704,42.34883,5278
+42135,-7907954.062000001,5216464.847,10487,"Maple, Norway",Acer platanoides,1,18-24in,23.0,--,--,East Boston,26,Bremen Street,,1,-71.03836,42.36933,10393
+10996,-7916407.664,5203002.767,29568,"Serviceberry, Allegheny",Amelanchier laevis,1,0-3in,2.0,Spring 2024,Boston,Roslindale,12,Manning Street,,1,-71.1143,42.279920000000004,28509
+35145,-7909944.9,5207901.9180000005,19056,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,15.0,--,Boston,Dorchester,65,Auckland Street,,2,-71.05624,42.312470000000005,19995
+26897,-7908801.203,5211761.108,26595,"Maple, Norway",Acer platanoides,1,6-12in,9.0,--,Boston,South Boston,365,West 2nd Street,,1,-71.04597,42.3381,26181
+21629,-7920291.045,5203737.034,34465,"Hawthorn, Cockspur",Crataegus crus-galli,1,6-12in,6.0,--,Boston,West Roxbury,26,Kenneth Street,,1,-71.14919,42.2848,34050
+8337,-7910709.219,5207680.18,19407,"Maple, Amur",Acer ginnala,1,0-3in,2.0,--,Boston,Dorchester,7,Cameron Street,,1,-71.06311,42.31100000000001,19579
+43063,-7921261.194,5205518.772,14620,"Oak, Pin",Quercus palustris,1,24-30in,26.0,--,Boston,West Roxbury,291,Independence Drive,,1,-71.1579,42.296640000000004,13627
+25191,-7907372.973999999,5210715.413,20212,"Linden, Littleleaf",Tilia cordata,1,6-12in,8.0,--,Boston,South Boston,194,M Street,,1,-71.03314,42.33116,21491
+672,-7909643.892000001,5208100.177,38521,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,52,Tuttle Street,,1,-71.05354,42.313790000000004,37918
+8510,-7913348.605,5207577.517,22514,"Maple, Hedge",Acer campestre,1,0-3in,2.0,--,Boston,Roxbury,74,Elm Hill Avenue,,1,-71.08681999999999,42.310320000000004,22260
+40611,-7919345.385,5213760.055,36777,"Maple, Norway",Acer platanoides,1,18-24in,20.0,--,Boston,Allston-Brighton,10,Ridgemont Street,,1,-71.14069,42.35138,36375
+42352,-7911693.284,5212875.749,37721,Ginkgo,Ginkgo biloba,1,24-30in,24.0,--,Boston,South End,47,Gray Street,,1,-71.07195,42.3455,39614
+5040,-7908464.573,5211248.4860000005,26281,Crabapple spp.,Malus spp.,1,0-3in,2.0,Fall 2022,Boston,South Boston,548,East 4th Street,,1,-71.04295,42.3347,26704
+19512,-7910231.102000001,5209621.5030000005,1949,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Dorchester,42,Dorset Street,-44,1,-71.05882,42.323890000000006,2446
+33602,-7907952.949,5211645.148,26049,"Zelkova, Japanese",Zelkova serrata,1,12-18in,13.0,--,Boston,South Boston,626,East 2nd Street,,1,-71.03835,42.33733,26055
+4419,-7915405.789,5209702.959,16298,"Cherry, Okame",Prunus 'Okame',1,0-3in,2.0,--,Boston,Jamaica Plain,24,Gay Head Street,,1,-71.1053,42.32444,17104
+2740,-7921016.291,5212594.855,23737,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Allston-Brighton,10,Portina Road,,1,-71.1557,42.34364,24737
+37455,-7920409.155,5213522.665,37025,"Zelkova, Japanese",Zelkova serrata,1,12-18in,16.0,--,Boston,Allston-Brighton,17,Henshaw Street,,1,-71.15025,42.3498,37077
+40288,-7906880.942000001,5210851.841,30127,Honeylocust,Gleditsia triacanthos,1,18-24in,20.0,--,Boston,South Boston,1802,Columbia Road,,2,-71.02871999999999,42.33207,30876
+10135,-7913626.903,5202880.294,21648,"Oak, Shingle",Quercus imbricaria,1,0-3in,2.0,Spring 2024,Boston,Mattapan,510,Norfolk Street,,1,-71.08932,42.279109999999996,22409
+18160,-7910396.003,5215312.913,4552,"Oak, Pin",Quercus palustris,1,3-6in,4.0,--,--,Central Boston,40,Sudbury Street,,3,-71.0603,42.36168,4519
+39047,-7910006.793,5210111.903,25016,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,South Boston,670,East 2nd Street,,1,-71.0568,42.32715,22970
+27767,-7913562.3379999995,5207158.899,22318,Ginkgo,Ginkgo biloba,1,6-12in,10.0,--,Boston,Roxbury,204,Seaver Street,,2,-71.08874,42.30754,21592
+39784,-7921511.663,5201812.261,12841,"Maple, Norway",Acer platanoides,1,18-24in,19.0,--,Boston,West Roxbury,25,Woodbrier Road,,1,-71.16015,42.272009999999995,13290
+39621,-7903835.909,5219585.494,5129,"Linden, Littleleaf",Tilia cordata,1,18-24in,19.0,--,--,East Boston,54,Orient Avenue,,1,-71.00137,42.39004,6419
+14649,-7910997.982000001,5218010.876,5941,"Oak, English",Quercus robur,1,3-6in,3.0,--,--,Charlestown,35,Russell Street,,1,-71.0657,42.37959,7046
+18314,-7909282.103999999,5204470.907,1348,"Oak, Swamp White",Quercus bicolor,1,3-6in,4.0,--,Boston,Dorchester,574,Ashmont Street,,1,-71.05029,42.28968,289
+29316,-7919055.2870000005,5204943.282,14705,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,11.0,--,Boston,West Roxbury,1453,Centre Street,,1,-71.13808,42.29282,13712
+10827,-7922028.742000001,5200836.408,12653,"Redbud, Eastern",Cercis canadensis,1,0-3in,2.0,Spring 2023,Boston,West Roxbury,21,Vogel Street,,1,-71.16479,42.26552,13181
+7725,-7912448.03,5202611.131,21990,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,--,Boston,Mattapan,10,Woodgate Street,,2,-71.07873000000001,42.27732,21051
+42887,-7913327.454,5212428.732,27906,"Zelkova, Japanese",Zelkova serrata,1,24-30in,25.0,--,Boston,Fenway/Longwood,36,Saint Stephen Street,,1,-71.08663,42.34254,29512
+29338,-7911786.792,5202697.791999999,9530,"Elm, Chinese",Ulmus parvifolia,1,6-12in,11.0,--,Boston,Mattapan,119,Gallivan Boulevard,,2,-71.07279,42.27789,9413
+16502,-7913542.3,5212504.037,594,Goldenrain Tree,Koelreuteria paniculata,1,3-6in,4.0,--,Boston,Fenway/Longwood,41,Symphony Road,a,1,-71.08856,42.34304,1568
+10424,-7922585.969,5201565.772,42415,"Oak, Swamp White",Quercus bicolor,1,0-3in,2.0,Spring 2022,Boston,West Roxbury,48,Laurie Avenue,,1,-71.1698,42.27037,40562
+20994,-7922485.708,5203534.654,34487,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,5.0,--,Boston,West Roxbury,107,Chesbrough Road,,1,-71.1689,42.28345,34339
+25162,-7910586.767999999,5215355.961,4863,"Linden, Littleleaf",Tilia cordata,1,6-12in,8.0,--,--,Central Boston,7,Bullfinch Place,,2,-71.06201,42.36197,4853
+25946,-7920941.707,5214427.97,25347,"Sweetgum, Common",Liquidambar styraciflua,1,6-12in,8.0,--,Boston,Allston-Brighton,105,Faneuil Street,,1,-71.15503000000001,42.35581,25222
+18614,-7922730.6110000005,5214040.833000001,36950,Serviceberry,Amelanchier species,1,3-6in,4.0,--,Boston,Allston-Brighton,41,Hunnewell Avenue,,1,-71.1711,42.35324,36813
+37926,-7912062.864,5212790.049,28718,"Linden, Littleleaf",Tilia cordata,1,12-18in,17.0,--,Boston,South End,130,Appleton Street,,3,-71.07526999999999,42.34494,28886
+13214,-7911363.778,5218380.393999999,6036,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Charlestown,380,Bunker Hill Street,,6,-71.06899,42.38204,6295
+16051,-7907672.89,5216097.057,42380,Crabapple spp.,Malus spp.,1,3-6in,4.0,--,--,East Boston,43,Cottage Street,,1,-71.03584000000001,42.366890000000005,40518
+15849,-7910393.072000001,5217648.004,34440,"Cherry, Autumnalis",Prunus subhirtella 'Autumnalis',1,3-6in,4.0,--,Boston,Charlestown,21,Monument Square,,3,-71.06026999999999,42.377179999999996,34198
+1034,-7919748.705,5204683.553,40179,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,16,Peak Hill Road,,1,-71.14431,42.291090000000004,38401
+3184,-7915279.33,5200539.475,31436,Vacant Unacceptable/Retired,Vacant Unacceptable/Retired,1,,0.0,--,Boston,Hyde Park,2,Belnel Road,,1,-71.10416,42.26355,32028
+33878,-7911668.793,5212285.655,2380,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,South End,15,West Dedham Street,a,1,-71.07173,42.341590000000004,1343
+15459,-7916514.531,5213684.138,37449,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,3.0,--,Brookline,Allston-Brighton,888,Commonwealth Avenue,,1,-71.11525999999999,42.35087,36891
+9020,-7907298.39,5217773.8319999995,31069,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,--,East Boston,244,Saratoga Street,,1,-71.03246999999999,42.37802,32446
+2342,-7914432.856000001,5209215.441000001,41072,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roxbury,71,Weaver Way,,1,-71.09656,42.3212,42196
+24886,-7909588.232000001,5214983.85,8390,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,--,Central Boston,200,State Street,,2,-71.05304,42.3595,9734
+18954,-7914926.002,5212054.778,27333,"Basswood, American",Tilia americana,1,3-6in,5.0,--,Boston,Fenway/Longwood,32,Avenue Louis Pasteur,,2,-71.10099,42.34005,26633
+10533,-7908427.17,5216760.171,3220,"Oak, Willow",Quercus phellos,1,0-3in,2.0,Spring 2022,--,East Boston,2,Landing Street,,1,-71.04261,42.37129,3500
+343,-7912871.044,5210714.51,24780,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roxbury,2190,Washington Street,,2,-71.08253,42.33115,22742
+18002,-7910876.199,5212556.901000001,37638,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,South End,149,East Berkeley Street,,1,-71.06461,42.34339,39626
+6262,-7922141.731000001,5204236.008,2425,Goldenrain Tree,Koelreuteria paniculata,1,0-3in,2.0,--,Boston,West Roxbury,663,Lagrange Street,,1,-71.16581,42.28812,1405
+18410,-7914121.1620000005,5202813.191000001,36239,"Oak, Willow",Quercus phellos,1,3-6in,4.0,--,Boston,Mattapan,1333,Blue Hill Avenue,,1,-71.09376,42.278659999999995,35157
+35973,-7913719.2979999995,5202092.535,21101,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,12-18in,15.0,--,Boston,Mattapan,8,Violet Street,,1,-71.09015,42.27387,21124
+43947,-7918666.337,5204446.68,33778,"Oak, Swamp White",Quercus bicolor,1,>30in,35.0,--,Boston,Roslindale,18,Hewlett Street,,1,-71.13459,42.28952,34524
+18665,-7907956.288,5210887.981000001,10086,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,4.0,--,Boston,South Boston,552,East Seventh Street,,2,-71.03838,42.33231,10030
+32951,-7909751.204,5203238.99,7325,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,Boston,Dorchester,23,Lenoxdale Avenue,,1,-71.0545,42.281490000000005,7278
+11275,-7913391.351,5208453.199,41147,Sweetgum 'Happidaze',Liquidambar styraciflua 'Happdell',1,0-3in,2.0,Spring 2022,Boston,Roxbury,126,Humboldt Avenue,,2,-71.0872,42.316140000000004,42269
+15460,-7912376.785,5206104.682,35481,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,3.0,--,Boston,Dorchester,15,Carmen Street,,1,-71.07809,42.30053,37062
+13398,-7914063.276000001,5207756.953,22463,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Roxbury,64,Seaver Street,,2,-71.09324000000001,42.31151,22049
+26169,-7904603.345,5219565.9,1063,"Cherry, Japanese Flowering",Prunus serrulata,1,6-12in,9.0,--,--,East Boston,195,Gladstone Street,,1,-71.00825999999999,42.38991,53
+43290,-7919202.228999999,5203497.338,12263,"Zelkova, Japanese",Zelkova serrata,1,24-30in,27.0,--,Boston,Roslindale,44,Beryl Street,,1,-71.1394,42.28321,11677
+10398,-7911893.659,5207386.646000001,39311,"Oak, Swamp White",Quercus bicolor,1,0-3in,2.0,Spring 2024,Boston,Dorchester,301,Columbia Road,,1,-71.07375,42.30905,38728
+37702,-7920069.407000001,5205198.817,14475,Honeylocust,Gleditsia triacanthos,1,12-18in,17.0,--,Boston,West Roxbury,68,Willowdean Avenue,,1,-71.14719000000001,42.294509999999995,14688
+29737,-7915232.13,5209014.901000001,34873,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,Boston,Jamaica Plain,88,Mozart Street,,2,-71.10374,42.31987,33987
+36800,-7910467.656,5217745.653,4563,"Linden, Littleleaf",Tilia cordata,1,12-18in,16.0,--,--,Charlestown,24,Concord Street,,1,-71.06094,42.377829999999996,4629
+15826,-7911105.071,5213652.204,4260,"Buckeye, Ohio",Aesculus glabra,1,3-6in,4.0,--,--,Central Boston,154,Stuart Street,,1,-71.06667,42.35066,4154
+35803,-7920412.938999999,5202467.149,13078,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,West Roxbury,16,Tennyson Street,,1,-71.15028000000001,42.27636,14571
+9266,-7913844.342999999,5205205.072,42359,"Maple, Red 'October Glory'",Acer rubrum 'October Glory',1,0-3in,2.0,Spring 2023,Boston,Dorchester,44,Wilbert Road,,1,-71.09127,42.29456,41829
+11476,-7916247.364,5209650.1110000005,34993,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,Spring 2024,Boston,Jamaica Plain,95,Bynner Street,,1,-71.11286,42.324090000000005,34440
+41724,-7917066.676,5208027.166,15648,"Maple, Norway",Acer platanoides,1,18-24in,22.0,--,Boston,Jamaica Plain,122,Pond Street,,2,-71.12021999999999,42.3133,16112
+24732,-7920252.6389999995,5211596.807,30045,Ginkgo,Ginkgo biloba,1,6-12in,8.0,--,Boston,Allston-Brighton,4,Ayr Road,,1,-71.14884,42.33701,29826
+26441,-7910322.941000001,5214299.023,8578,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,--,Central Boston,25,Summer Street,,1,-71.05964,42.35495,8370
+17853,-7907384.106000001,5215981.2,13020,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,--,East Boston,414,Sumner Street,,1,-71.03324,42.36612,14465
+24608,-7911681.706,5213805.393999999,7394,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,8.0,--,--,Back Bay/Beacon Hill,399,Boylston Street,,2,-71.07185,42.35168,7362
+25239,-7919250.7639999995,5203099.512,33513,"Linden, Silver",Tilia tomentosa,1,6-12in,8.0,--,Boston,Roslindale,160,Orange Street,,1,-71.13984,42.280559999999994,34823
+29207,-7910704.767000001,5217516.602,31948,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,11.0,--,--,Charlestown,46,High Street,,1,-71.06307,42.37631,30356
+29313,-7914757.909,5212385.507,11292,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,11.0,--,Boston,Fenway/Longwood,69,Kilmarnock Street,,1,-71.09948,42.34225,10875
+9565,-7911746.272000001,5207078.518999999,38557,"Oak, Hybrid English",Quercus robur x bicolor,1,0-3in,2.0,Spring 2024,Boston,Dorchester,58,Wilrose Street,,3,-71.07243000000001,42.306999999999995,37988
+19632,-7917645.5370000005,5204384.079,12292,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Roslindale,4139,Washington Street,,2,-71.12541999999999,42.2891,11671
+20988,-7917572.066000001,5215592.04,31612,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,5.0,--,Boston,Allston-Brighton,114,Western Avenue,,1,-71.12476,42.36354,30064
+38023,-7911484.671,5212473.463,10917,"Maple, Norway",Acer platanoides,1,12-18in,17.0,--,Boston,South End,1,Ringgold Street,,2,-71.07008,42.34283,11983
+44027,-7911034.272000001,5205890.06,18410,Ginkgo,Ginkgo biloba,1,>30in,38.0,--,Boston,Dorchester,23,Tonawanda Street,,1,-71.06603,42.29911,19147
+1388,-7913396.472,5208957.54,38650,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roxbury,10,Harold Park,,8,-71.08725,42.31948,39066
+16296,-7913937.485,5211884.598999999,30963,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,Fenway/Longwood,444,Huntington Avenue,,1,-71.09210999999999,42.33892,32417
+13831,-7921382.532000001,5203913.989,13712,"Lilac, Japanese Tree",Syringa reticulata,1,3-6in,3.0,--,Boston,West Roxbury,38,Richwood Street,,2,-71.15899,42.28598,12699
+354,-7921666.397000001,5214624.859,24341,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Allston-Brighton,7,Riverview Road,,1,-71.16154,42.35712,23820
+8739,-7909860.965,5215324.775,1625,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,--,Central Boston,637,John F Fitzgerald Surface Road,,2,-71.05549,42.36176,2124
+17227,-7908780.561000001,5214062.166999999,46567,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,3-6in,4.0,--,Boston,South Boston,50,Northern Ave,,5,-71.04578000000001,42.35338,43184
+24587,-7919302.527000001,5204778.347,11033,Elm,Ulmus species,1,6-12in,8.0,--,Boston,West Roxbury,87,Montclair Avenue,,1,-71.1403,42.29172,12450
+30012,-7917704.091,5206508.353,15289,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,Jamaica Plain,19,Westchester Road,,2,-71.12595,42.30322,15805
+43983,-7917900.458,5196214.991,20994,"Oak, Pin",Quercus palustris,1,>30in,36.0,--,Boston,Hyde Park,41,Lawton Street,,1,-71.12771,42.234790000000004,20499
+43170,-7920641.812000001,5202803.411,13169,"Linden, Littleleaf",Tilia cordata,1,24-30in,27.0,--,Boston,West Roxbury,77,Oriole Street,,2,-71.15234,42.27859,14295
+43954,-7913454.357999999,5208957.54,22699,Tree of Heaven,Ailanthus altissima,1,>30in,35.0,--,Boston,Roxbury,21,Harold Street,,2,-71.08776999999999,42.31948,23175
+7656,-7917269.277000001,5203957.175,11903,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,Spring 2023,Boston,Roslindale,47,Ridge Street,,1,-71.12204,42.28626,12102
+18377,-7919648.174,5212448.763,36496,"Oak, Swamp White",Quercus bicolor,1,3-6in,4.0,--,Boston,Allston-Brighton,1640,Commonwealth Avenue,,1,-71.14341,42.34267,35389
+1616,-7916952.462,5207648.117,40237,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,61,Aldworth Street,,1,-71.11919,42.310790000000004,40034
+2191,-7909998.444,5213539.987,41770,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,--,Central Boston,753,Atlantic Avenue,,2,-71.05672,42.349909999999994,41899
+19349,-7912726.329,5202174.978999999,21852,"Elm, Valley Forge",Ulmus americana 'Valley Forge',1,3-6in,5.0,--,Boston,Mattapan,66,Woodruff Way,,1,-71.08123,42.27442,20909
+1162,-7911227.967999999,5206201.158,39302,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,397,Geneva Avenue,,1,-71.06777,42.30117,38695
+37421,-7911148.931,5205321.018999999,17691,"Zelkova, Japanese",Zelkova serrata,1,12-18in,16.0,--,Boston,Dorchester,47,Tremlett Street,,2,-71.06706,42.29533,18268
+1282,-7918609.563999999,5202642.124,39588,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roslindale,306,Kittredge Street,,1,-71.13408000000001,42.27752,38898
+35320,-7909453.981000001,5216062.56,3864,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,Central Boston,390,Commercial Street,,1,-71.05183000000001,42.366659999999996,2850
+28301,-7918047.4,5204775.638,33827,"Linden, Littleleaf",Tilia cordata,1,6-12in,10.0,--,Boston,Roslindale,22,Mendum Street,,1,-71.12903,42.2917,34655
+34327,-7917222.522999999,5200493.446,36158,"Linden, Littleleaf",Tilia cordata,1,12-18in,14.0,--,Boston,Hyde Park,1053,Hyde Park Avenue,,1,-71.12162,42.26324,35081
+16169,-7913001.288,5211653.13,27525,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,4.0,--,Boston,Roxbury,958,Tremont Street,,1,-71.0837,42.33739,27270
+2710,-7913558.998,5201683.335,21132,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Mattapan,9,Viking Terrace,,1,-71.08870999999999,42.27115,21099
+12865,-7916282.318,5213703.4180000005,26657,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,Allston-Brighton,27,Commonwealth Avenue,,7,-71.11317,42.351000000000006,26087
+3776,-7920426.2979999995,5200424.254,34060,Mimosa,Albizia julibrissin,3,0-3in,1.0,--,Boston,West Roxbury,116,Woodley Avenue,,1,-71.1504,42.26278,34945
+36594,-7912134.109,5214110.125,8067,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,--,Back Bay/Beacon Hill,81,Marlborough Street,,1,-71.07591,42.3537,9055
+6542,-7912786.165,5211969.623,44073,"Hackberry, Northern",Celtis occidentalis,1,0-3in,2.0,Spring 2024,Boston,Roxbury,263,Northampton Street,-265,2,-71.08176,42.339490000000005,43349
+37953,-7911275.836,5201758.554,36382,"Linden, Littleleaf",Tilia cordata,1,12-18in,17.0,--,Boston,Mattapan,1241,Adams Street,,1,-71.0682,42.27165,35325
+42477,-7917603.235,5197079.55,36092,"Linden, Littleleaf",Tilia cordata,1,24-30in,24.0,--,Boston,Hyde Park,16,Cranmore Road,,4,-71.12504,42.24054,36002
+29664,-7907334.012,5211011.461,25192,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,Boston,South Boston,685,East Sixth Street,,1,-71.03279,42.33313,25118
+30130,-7919312.658,5198954.183,20660,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,6-12in,11.0,--,Boston,Hyde Park,10,Kardon Road,,2,-71.1404,42.253009999999996,20040
+7786,-7908742.204,5212586.119,38969,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,--,Boston,South Boston,409,D Street,a,1,-71.04544,42.343579999999996,39331
+42849,-7919671.106000001,5198991.481000001,20430,"Oak, Pin",Quercus palustris,1,24-30in,25.0,--,Boston,Hyde Park,30,Joan Road,,1,-71.14362,42.25325,22281
+42705,-7911669.907000001,5212528.134,11235,"Linden, Littleleaf",Tilia cordata,1,24-30in,25.0,--,Boston,South End,43,Union Park,,2,-71.07174,42.3432,10729
+4503,-7916368.7020000005,5200306.477,20202,"Cherry, Purpleleaf Sand",Prunus x cistena,1,0-3in,2.0,--,Boston,Hyde Park,484,Huntington Avenue,,1,-71.11395,42.262,21370
+34653,-7916926.97,5207562.765,15673,"Maple, Red",Acer rubrum,1,12-18in,14.0,--,Boston,Jamaica Plain,45,Aldworth Street,,2,-71.11896999999999,42.31022,16214
+36998,-7920817.029,5202453.307,13032,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,West Roxbury,140,Saint Theresa Avenue,,3,-71.15391,42.276270000000004,14355
+41542,-7911742.2639999995,5212926.808,348,"Linden, Littleleaf",Tilia cordata,1,18-24in,22.0,--,Boston,South End,57,Appleton Street,,1,-71.07239,42.34584,842
+42049,-7918115.305,5206528.973,15218,"Linden, Littleleaf",Tilia cordata,1,18-24in,23.0,--,Boston,Jamaica Plain,77,Whitcomb Avenue,,1,-71.12964000000001,42.30335,15739
+24706,-7910256.149,5213781.2930000005,5820,Ginkgo,Ginkgo biloba,1,6-12in,8.0,--,--,Central Boston,0,John F Fitzgerald Surface Road,,17,-71.05904,42.35152,6456
+9100,-7904656.333,5219728.983,41996,"Maple, Red",Acer rubrum,1,0-3in,2.0,Fall 2021,--,East Boston,208,Orient Avenue,,1,-71.00874,42.39099,41226
+38266,-7920788.754,5200712.76,12790,"Oak, Northern Red",Quercus rubra,1,12-18in,17.0,--,Boston,West Roxbury,5073,Washington Street,,1,-71.15366,42.2647,13279
+14831,-7911736.698,5212026.013,28224,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,Boston,South End,1515,Washington Street,,1,-71.07234,42.339859999999994,27641
+39123,-7920366.185,5202670.8610000005,12955,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,18-24in,18.0,--,Boston,West Roxbury,107,Woodard Road,,2,-71.14986,42.27771,13422
+15785,-7921197.297,5202904.969,34387,Apple/Crabapple,Malus species,1,3-6in,4.0,--,Boston,West Roxbury,96,Landseer Street,,1,-71.15733,42.279270000000004,33988
+14092,-7909266.518999999,5211110.848,12864,"Maple, Amur",Acer ginnala,1,3-6in,3.0,--,Boston,South Boston,229,West Seventh Street,,2,-71.05015,42.33379,13297
+21109,-7910875.753,5215242.518,8631,Apple/Crabapple,Malus species,1,6-12in,6.0,--,--,Central Boston,156,Cambridge Street,,5,-71.06461,42.36122,8623
+36571,-7910084.16,5217473.806,5008,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,--,Charlestown,58,Tremont Street,,2,-71.0575,42.37603,4983
+21789,-7913543.414,5204637.342,18360,Honeylocust,Gleditsia triacanthos,1,6-12in,6.0,--,Boston,Dorchester,242,Westview Street,,1,-71.08856999999999,42.29078,19107
+10065,-7916436.607000001,5206805.172,38978,"Oak, Sawtooth",Quercus acutissima,1,0-3in,2.0,Spring 2021,Boston,Jamaica Plain,140,South Street,a,1,-71.11456,42.30519,39303
+42005,-7907326.22,5217577.933,5983,"Hornbeam, European",Carpinus betulus,1,18-24in,23.0,--,--,East Boston,294,Paris Street,,3,-71.03272,42.37672,5553
+30034,-7917847.582,5201723.953,20925,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,Hyde Park,656,Beech Street,,2,-71.12724,42.27142,20359
+6868,-7910012.359,5210385.345,24943,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,South Boston,610,Dorchester Avenue,,1,-71.05685,42.32897,22751
+33077,-7909937.775,5210853.949,29452,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,Boston,South Boston,64,Middle Street,,1,-71.05618,42.33208,28423
+29221,-7915013.944,5208827.312,34735,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,11.0,--,Boston,Jamaica Plain,79,Atherton Street,,1,-71.10178,42.31862,34054
+1121,-7912033.365,5213783.252,39208,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,--,Back Bay/Beacon Hill,90,Newbury Street,,3,-71.075,42.35153,38599
+32675,-7908862.874,5211061.456,26022,Honeylocust,Gleditsia triacanthos,1,12-18in,13.0,--,Boston,South Boston,25,Thomas Park,,1,-71.04652,42.333459999999995,25969
+5003,-7916211.742000001,5201187.353999999,20031,Crabapple spp.,Malus spp.,1,0-3in,2.0,Spring 2023,Boston,Hyde Park,21,Chapel Road,,1,-71.11254,42.26785,17997
+37983,-7911276.949,5217921.664,3973,"Maple, Norway",Acer platanoides,1,12-18in,17.0,--,--,Charlestown,7,Eden Street,,2,-71.06821,42.379,2981
+32255,-7907792.649,5211140.062,30166,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,13.0,--,Boston,South Boston,586,East 5th Street,,1,-71.03690999999999,42.33398,31001
+31482,-7914766.815,5210747.788,9639,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,Boston,Mission Hill,56,Delle Avenue,,1,-71.09956,42.331379999999996,7557
+34211,-7911631.613,5214568.518999999,1508,"Linden, Littleleaf",Tilia cordata,1,12-18in,14.0,--,--,Back Bay/Beacon Hill,85,Chestnut Street,,2,-71.0714,42.35674,2005
+9441,-7915105.226,5209466.424,16081,"Oak, Bur",Quercus macrocarpa,1,0-3in,2.0,Spring 2024,Boston,Jamaica Plain,290,Centre Street,,2,-71.1026,42.32286,16543
+37109,-7919363.197000001,5199056.302,35910,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,Hyde Park,16,Alwin Street,,2,-71.14085,42.253679999999996,35856
+33013,-7910378.044,5208642.136,19669,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,Boston,Dorchester,16,Hinckley Street,,1,-71.06013,42.31739,17703
+42855,-7917195.3610000005,5204606.342,33955,"Pear, Callery",Pyrus calleryana,1,24-30in,25.0,--,Boston,Roslindale,47,Bradeen Street,,1,-71.12138,42.29058,34831
+12921,-7908682.427,5214164.352,46490,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,South Boston,10,Fan Pier Blvd,,1,-71.04491,42.35406,43077
+27111,-7913783.864,5205591.463,18813,"Oak, Pin",Quercus palustris,1,6-12in,9.0,--,Boston,Dorchester,74,American Legion Highway,,1,-71.09073000000001,42.29712,19431
+25252,-7907222.693,5215770.271000001,4418,"Maple, Amur",Acer ginnala,1,6-12in,8.0,--,--,East Boston,253,Webster Street,,1,-71.03179,42.36472,4262
+3288,-7910281.753,5215789.103999999,3790,"Cedar, Red",Thuja species,3,0-3in,1.0,--,--,Central Boston,60,Valenti Way,,3,-71.05927,42.36485,2750
+23315,-7917918.27,5207372.496,15540,"Elm, Frontier",Ulmus x 'Frontier',1,6-12in,7.0,--,Boston,Jamaica Plain,19,Driftwood Road,,2,-71.12787,42.30896,15988
+5857,-7910072.084,5208974.36,44582,"Elm, Hybrid",Ulmus x,1,0-3in,2.0,Spring 2024,Boston,Dorchester,915,Dorchester Avenue,,3,-71.05739,42.3196,43562
+4246,-7905854.576,5218633.88,3150,"Basswood, American",Tilia americana,1,0-3in,2.0,--,--,East Boston,10,Moore Street,,10,-71.0195,42.383720000000004,3298
+6217,-7917170.61,5207691.116,39461,Ginkgo,Ginkgo biloba,1,0-3in,2.0,Fall 2023,Boston,Jamaica Plain,53,Prince Street,,1,-71.12115,42.31107,38810
+30681,-7910334.741,5208768.597,15655,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,12.0,--,Boston,Dorchester,7,Chase Street,,1,-71.05975,42.31823,16119
+33026,-7917655.556,5201488.52,20600,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,Boston,Hyde Park,80,Windham Road,,1,-71.12550999999999,42.269859999999994,20109
+35259,-7921006.272000001,5202642.124,12936,"Cherry, Yoshino Flowering",Prunus yedoensis,1,12-18in,15.0,--,Boston,West Roxbury,19,Churchill Road,,1,-71.15561,42.27752,13369
+43831,-7911936.517000001,5209292.828,29410,"Linden, Littleleaf",Tilia cordata,1,>30in,33.0,--,Boston,Roxbury,39,Brook Avenue,,1,-71.07413000000001,42.321709999999996,28356
+15057,-7913698.147999999,5211766.831,32843,"Oak, Swamp White",Quercus bicolor,1,3-6in,3.0,--,Boston,Fenway/Longwood,360,Huntington Avenue,,5,-71.08995999999999,42.33814,33505
+35287,-7909044.993,5211851.919,30210,Ginkgo,Ginkgo biloba,1,12-18in,15.0,--,Boston,South Boston,201,Bolton Street,,1,-71.04816,42.33871,30982
+5872,-7907427.521000001,5217437.641,42050,"Elm, Jefferson",Ulmus americana 'jefferson',0,0-3in,2.0,Fall 2021,Boston,East Boston,259,Paris Street,,1,-71.03363,42.37579,41478
+4144,-7915709.134,5210921.712,23319,Apple/Crabapple,Malus species,1,0-3in,2.0,--,Boston,Mission Hill,15,Frawley Street,,1,-71.10802,42.33253,24254
+20686,-7914292.594,5212680.703,28686,"Oak, Pin",Quercus palustris,1,3-6in,5.0,--,Boston,Fenway/Longwood,15,Peterborough Street,,1,-71.0953,42.34421,28733
+9758,-7919091.02,5215492.0030000005,10153,"Oak, Pin",Quercus palustris,1,0-3in,2.0,Fall 2022,Boston,Allston-Brighton,381,Western Avenue,,2,-71.1384,42.36287,10094
+6839,-7911563.04,5207771.103,19518,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Dorchester,276,Quincy Street,,1,-71.07078,42.3116,19635
+26166,-7912943.402000001,5212437.317,29342,"Buckeye, Ohio",Aesculus glabra,1,6-12in,9.0,--,Boston,Back Bay/Beacon Hill,174,Saint Botolph Street,,1,-71.08318,42.34259,28306
+2325,-7913791.656,5202593.528,40998,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Mattapan,40,Mildred Avenue,,1,-71.0908,42.2772,42163
+18788,-7915838.822000001,5206757.006,15955,"Zelkova, Japanese",Zelkova serrata,1,3-6in,4.0,--,Boston,Jamaica Plain,3525,Washington Street,,1,-71.10919,42.30487,16427
+40389,-7913118.73,5201593.073,21558,"Linden, Littleleaf",Tilia cordata,1,18-24in,20.0,--,Boston,Mattapan,6,Southmere Road,,2,-71.08475,42.27055,22064
+34278,-7910435.373,5209512.947,19755,"Linden, Littleleaf",Tilia cordata,1,12-18in,14.0,--,Boston,Dorchester,199,Boston Street,,1,-71.06065,42.323170000000005,17694
+38052,-7920244.847,5205088.355,14588,"Maple, Norway",Acer platanoides,1,12-18in,17.0,--,Boston,West Roxbury,6,Rendall Road,,4,-71.14877,42.29378,13611
+40592,-7921703.132,5199976.621,34183,"Maple, Norway",Acer platanoides,1,18-24in,20.0,--,Boston,West Roxbury,40,Tobin Road,,1,-71.16187,42.2598,33032
+7540,-7910339.042,5203899.558,17237,"Hornbeam, European",Carpinus betulus,1,0-3in,2.0,Spring 2024,Boston,Dorchester,27,Fossdale Road,,1,-71.05978,42.28588,16890
+25659,-7913985.352000001,5205361.201,29405,"Oak, Pin",Quercus palustris,1,6-12in,8.0,--,Boston,Dorchester,60,Franklin Hill Ave,,2,-71.09254,42.295590000000004,28285
+23152,-7916526.107999999,5208907.103999999,16613,"Cherry, Japanese Flowering",Prunus serrulata,1,6-12in,7.0,--,Boston,Jamaica Plain,66,Pershing Road,,2,-71.11536,42.31915,15070
+35620,-7917160.183999999,5200818.357,9180,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,Hyde Park,1002,Hyde Park Avenue,,1,-71.12106,42.2654,8150
+42331,-7906716.746,5211324.534,25271,"Basswood, American",Tilia americana,1,24-30in,24.0,--,Boston,South Boston,89,P Street,,1,-71.02724,42.33521,25195
+22489,-7912427.992000001,5206270.092,35480,"Maple, Red",Acer rubrum,1,6-12in,6.0,--,Boston,Dorchester,30,Norwell Street,,1,-71.07855,42.301629999999996,37059
+14858,-7916907.489,5203380.877,33422,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,Boston,Roslindale,522,Hyde Park Avenue,,2,-71.11879,42.28243,32826
+11119,-7906901.359,5217990.672,5964,"Serviceberry, Snowcloud",Amelanchier laevis 'Snowcloud',1,0-3in,2.0,Fall 2023,--,East Boston,426,Saratoga Street,,1,-71.0289,42.379459999999995,6681
+32135,-7918707.97,5205152.315,34030,Apple/Crabapple,Malus species,1,12-18in,13.0,--,Boston,Roslindale,34,Hazelmere Road,,1,-71.13495999999999,42.2942,34872
+20363,-7915450.316000001,5213046.699,489,"Maple, Red",Acer rubrum,1,3-6in,5.0,--,Boston,Fenway/Longwood,900,Beacon Street,,2,-71.1057,42.34664,983
+43695,-7918802.146000001,5213546.313,23733,"Oak, Pin",Quercus palustris,1,>30in,31.0,--,Boston,Allston-Brighton,36,Long Avenue,,1,-71.13580999999999,42.349959999999996,24733
+32874,-7921617.416,5213802.834,32705,"Linden, Littleleaf",Tilia cordata,1,12-18in,13.0,--,Boston,Allston-Brighton,79,Beechcroft Street,,1,-71.1611,42.351659999999995,33189
+14673,-7912753.045,5211587.319,27433,"Oak, Fastigiate Pin",Quercus palustris 'Fastigiata',1,3-6in,3.0,--,Boston,Roxbury,83,Lenox Street,,1,-71.08147,42.33695,27001
+1377,-7913113.72,5207692.223,38647,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roxbury,23,Crawford Street,,1,-71.08471,42.31108,39029
+7236,-7913199.436000001,5204621.842,40535,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,0-3in,2.0,Spring 2022,Boston,Dorchester,170,Westview Street,,2,-71.08548,42.29068,40273
+43073,-7919710.959,5198899.1389999995,20407,"Oak, Pin",Quercus palustris,1,24-30in,26.0,--,Boston,Hyde Park,42,Joan Road,,1,-71.14397,42.25264,22329
+22862,-7908270.316000001,5216404.86,42878,"Pear, Callery",Pyrus calleryana,1,6-12in,6.0,--,--,East Boston,2,Msgr Albert A Jacobbe Road,,4,-71.0412,42.36893,40969
+7831,-7912892.195,5202457.369,41022,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,Spring 2023,Boston,Mattapan,95,Woodbole Avenue,,1,-71.08272,42.27629,42220
+5733,-7917107.782000001,5203353.823,42580,"Elm, Chinese",Ulmus parvifolia,1,0-3in,2.0,Fall 2021,Boston,Roslindale,73,Rowe Street,,1,-71.12059,42.28225,40666
+5102,-7922120.859,5200932.999,39756,Crabapple spp.,Malus spp.,1,0-3in,2.0,Fall 2022,Boston,West Roxbury,10,Salman Street,,1,-71.16561999999999,42.26616,39018
+32030,-7921769.924,5213414.215,24212,"Planetree, London",Platanus x acerifolia,1,12-18in,12.0,--,Boston,Allston-Brighton,523,Washington Street,,1,-71.16247,42.34908,23549
+38957,-7922515.765,5203710.853,10963,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,West Roxbury,153,Sanborn Avenue,,3,-71.16917,42.28463,12118
+19809,-7912595.528,5211126.961,30232,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Roxbury,1964,Washington Street,,4,-71.08006,42.333890000000004,31018
+41810,-7914473.377,5204702.201,255,"Oak, Northern Red",Quercus rubra,1,18-24in,22.0,--,Boston,Mattapan,378,American Legion Highway,-368,2,-71.09692,42.29121,749
+36758,-7910596.341,5204446.68,35045,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,Boston,Dorchester,6,Denvir Street,,1,-71.0621,42.28952,34489
+18673,-7915796.52,5206816.762,15974,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,4.0,--,Boston,Jamaica Plain,3531,Washington Street,,6,-71.10880999999999,42.30526,16462
+29211,-7910363.363,5217507.002,30272,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,11.0,--,--,Charlestown,9,Monument Square,,1,-71.06000999999999,42.37625,31092
+21345,-7909515.874,5212828.305,25075,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,6.0,--,Boston,South Boston,1,Channel Center Street,,2,-71.05239,42.34519,22957
+37064,-7907871.686000001,5211016.129,25871,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,South Boston,305,K Street,,2,-71.03761999999999,42.33316,25889
+23111,-7911248.006,5208115.231000001,19887,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,7.0,--,Boston,Dorchester,478,Columbia Road,,4,-71.06795,42.31389,17746
+35669,-7912640.613,5201573.516,21679,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,Mattapan,14,Duxbury Road,,1,-71.08046,42.27042,20729
+9351,-7912335.597,5212171.345,41621,"Maple, Red 'Red Sunset'",Acer rubrum 'Red Sunset',1,0-3in,2.0,Fall 2021,Boston,South End,709,Tremont Street,,1,-71.07772,42.34083,41606
+35449,-7912215.372,5207227.087,19547,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,Boston,Dorchester,134,Devon Street,,1,-71.07664,42.307990000000004,19967
+19048,-7905427.11,5218157.054,30455,"Cherry, Yoshino Flowering",Prunus yedoensis,1,3-6in,5.0,--,--,East Boston,120,Coleridge Street,,1,-71.01566,42.380559999999996,31243
+35756,-7904326.16,5219895.836,946,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,--,East Boston,144,Faywood Ave,,2,-71.00577,42.3921,1863
+40085,-7914992.237000001,5213611.535,6427,"Sweetgum, Common",Liquidambar styraciflua,1,18-24in,19.0,--,--,Fenway/Longwood,178,Bay State Road,,1,-71.10159,42.350390000000004,6741
+16825,-7919643.054,5214493.801,10933,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Allston-Brighton,133,Guest Street,,7,-71.14336,42.35625,12031
+33821,-7911276.949,5217739.625,5387,"Corktree, Amur",Phellodendron amurense,1,12-18in,14.0,--,--,Charlestown,106,Dunstable Street,,1,-71.06821,42.377790000000005,6451
+41673,-7915953.481000001,5200561.135,1953,"Maple, Norway",Acer platanoides,1,18-24in,22.0,--,Boston,Hyde Park,14,Edwardson Street,-16,1,-71.11022,42.263690000000004,2450
+38408,-7911721.67,5212275.563999999,474,"Planetree, London",Platanus x acerifolia,1,12-18in,17.0,--,Boston,South End,23,West Dedham Street,,2,-71.0722,42.34152,968
+23206,-7919840.089,5212360.356000001,21987,Elm,Ulmus species,1,6-12in,7.0,--,Boston,Allston-Brighton,1665,Commonwealth Avenue,,1,-71.14513000000001,42.342079999999996,21048
+32145,-7904671.25,5218988.049,3610,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,13.0,--,--,East Boston,948,Bennington Street,,1,-71.00887,42.386070000000004,2578
+16452,-7912440.237000001,5212094.839,29183,Ginkgo,Ginkgo biloba,1,3-6in,4.0,--,Boston,South End,731,Tremont Street,,2,-71.07866,42.34032,28185
+5205,-7903564.871,5219648.651000001,5255,"Crabapple, Golden Raindrops",Malus 'Golden Raindrops',1,0-3in,2.0,Fall 2022,--,East Boston,15,Waldemar Avenue,,1,-70.99893,42.39046,6173
+19788,-7913673.657000001,5212626.483,27926,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Fenway/Longwood,124,Westland Avenue,,1,-71.08974,42.34385,29661
+33466,-7908143.767000001,5216505.812,42502,"Pear, Callery",Pyrus calleryana,1,12-18in,13.0,--,--,East Boston,14,Henry Street,,1,-71.04006,42.3696,40683
+1219,-7921161.006,5205185.574,39450,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,68,Garnet Road,,1,-71.157,42.29443,38800
+2813,-7911882.972,5211452.086,30939,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,South End,818,Harrison Avenue,,3,-71.07365,42.33605,32233
+23094,-7909804.749,5208130.285,35519,Apple/Crabapple,Malus species,1,6-12in,7.0,--,Boston,Dorchester,28,Sagamore Street,,1,-71.05499,42.313990000000004,37457
+5457,-7913727.092999999,5213372.933,44433,Elm,Ulmus species,1,0-3in,2.0,--,Boston,Back Bay/Beacon Hill,390,Commonwealth Avenue,,2,-71.09022,42.3488,43532
+21679,-7909431.94,5216078.831,4072,Honeylocust,Gleditsia triacanthos,1,6-12in,6.0,--,--,Central Boston,399,Commercial Street,,1,-71.05164,42.36677,3849
+23605,-7906935.489,5211689.273,37231,Honeylocust,Gleditsia triacanthos,1,6-12in,7.0,--,Boston,South Boston,18,O Street,,1,-71.02920999999999,42.33763,36181
+12471,-7915806.539,5206862.069,15942,"Coffeetree, Kentucky",Gymnocladus dioicus,1,3-6in,3.0,--,Boston,Jamaica Plain,3531,Washington Street,,3,-71.1089,42.30556,16487
+26827,-7921215.107999999,5214586.897,37067,"Maple, Hedge",Acer campestre,1,6-12in,9.0,--,Boston,Allston-Brighton,228,Parsons Street,,1,-71.15749,42.35686,37306
+41409,-7918239.982999999,5201807.598,20974,Apple/Crabapple,Malus species,1,18-24in,22.0,--,Boston,Roslindale,43,Bateman Street,,1,-71.13076,42.27198,20440
+43196,-7917851.477999999,5207103.656,34729,"Linden, Littleleaf",Tilia cordata,1,24-30in,27.0,--,Boston,Jamaica Plain,6,Slocum Road,,2,-71.12727,42.30717,33974
+22215,-7908288.02,5216633.602,38059,"Maple, Freeman",Acer x freemanii,1,6-12in,6.0,--,--,East Boston,1,Cunard Way,,1,-71.04136,42.37045,39959
+42455,-7907828.271000001,5210721.437,25533,"Linden, Littleleaf",Tilia cordata,1,24-30in,24.0,--,Boston,South Boston,368,K Street,,1,-71.03723000000001,42.3312,25452
+1900,-7911042.065,5207077.315,40699,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,270,Bowdoin Street,,3,-71.0661,42.306999999999995,40466
+37523,-7909285.443,5203170.228999999,17921,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,17.0,--,Boston,Dorchester,31,Whitridge Street,,2,-71.05032,42.28103,19469
+12947,-7910712.558999999,5215270.69,8852,Goldenrain Tree,Koelreuteria paniculata,1,3-6in,3.0,--,--,Central Boston,101,Cambridge Street,,1,-71.06314,42.3614,8144
+42045,-7922393.312999999,5203290.148,13506,"Linden, Littleleaf",Tilia cordata,1,18-24in,23.0,--,Boston,West Roxbury,34,Dow Road,,1,-71.16807,42.28183,14970
+2494,-7908847.051,5214180.442,46641,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South Boston,12,Northern Ave,,21,-71.04638,42.35417,42638
+12983,-7910344.091,5215891.404,29594,Goldenrain Tree,Koelreuteria paniculata,1,3-6in,3.0,--,--,Central Boston,110,Beverly Street,,2,-71.05983,42.365520000000004,28675
+38560,-7919812.927,5212039.718,23519,"Ash, Green",Fraxinus pennsylvanica,1,18-24in,18.0,--,Brookline,Allston-Brighton,78,Kilsyth Road,,2,-71.14489,42.33995,24403
+26596,-7918352.972,5213984.044,32669,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,Boston,Allston-Brighton,138,Brighton Avenue,,2,-71.13176999999999,42.35286,32353
+27038,-7910228.319,5208522.752,32305,"Maple, Sycamore",Acer pseudoplatanus,1,6-12in,9.0,--,Boston,Dorchester,43,Mayfield Street,,1,-71.05879,42.3166,31463
+22704,-7912445.802999999,5212039.116,34,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,6.0,--,Boston,South End,748,Tremont Street,,3,-71.07871,42.33995,532
+22716,-7913097.022000001,5207218.055,22388,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,6.0,--,Boston,Roxbury,3,Schuyler Street,,1,-71.08456,42.30793,21842
+7781,-7911923.63,5214063.913,39261,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,Spring 2021,Boston,Back Bay/Beacon Hill,27,Commonwealth Avenue,,1,-71.07401999999999,42.353390000000005,38650
+20873,-7913501.78,5208682.3319999995,22687,"Pear, Callery",Pyrus calleryana,1,3-6in,5.0,--,Boston,Roxbury,17,Crestwood Park,,1,-71.0882,42.31766,23144
+12141,-7910529.995,5203788.947,17240,Apple/Crabapple,Malus species,1,3-6in,3.0,--,Boston,Dorchester,22,Carruth Street,,1,-71.0615,42.285140000000006,16896
+41682,-7911717.774,5214879.45,8219,"Maple, Norway",Acer platanoides,1,18-24in,22.0,--,--,Back Bay/Beacon Hill,112,Pinckney Street,,1,-71.07217,42.35881,9490
+30273,-7913740.449,5204164.8319999995,18229,"Oak, Pin",Quercus palustris,1,6-12in,11.0,--,Boston,Dorchester,1078,Blue Hill Avenue,,1,-71.09034,42.28764,19045
+41726,-7917036.619,5207996.305,15677,"Maple, Norway",Acer platanoides,1,18-24in,22.0,--,Boston,Jamaica Plain,119,Dunster Road,,1,-71.11995,42.3131,16249
+33835,-7908677.223999999,5214053.955,46591,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,12-18in,14.0,--,Boston,South Boston,1,Marina Park Drive,,8,-71.04485,42.35333,42598
+23146,-7910614.153,5217529.561000001,4794,"Cherry, Japanese Flowering",Prunus serrulata,1,6-12in,7.0,--,--,Charlestown,6,Cedar Street,,1,-71.06226,42.3764,4789
+34803,-7911392.585,5218607.237,1095,"Pear, Callery",Pyrus calleryana,1,12-18in,14.0,--,--,Charlestown,114,Baldwin Street,,1,-71.06925,42.38355,159
+12635,-7913144.89,5210756.3719999995,27037,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,3.0,--,Boston,Roxbury,771,Shawmut Avenue,,2,-71.08499,42.33143,27320
+15214,-7919406.6110000005,5198950.273,20655,"Pear, Callery",Pyrus calleryana,1,3-6in,3.0,--,Boston,Hyde Park,14,Dietz Road,,2,-71.14124,42.25298,20035
+22001,-7911302.552,5205015.066000001,7109,"Lilac, Japanese Tree",Syringa reticulata,1,6-12in,6.0,--,Boston,Dorchester,74,Lyndhurst Street,,1,-71.06844,42.29329,7002
+36785,-7911900.783,5212236.859,2377,"Linden, Littleleaf",Tilia cordata,1,12-18in,16.0,--,Boston,South End,19,San Juan Street,b,2,-71.07381,42.34126,1306
+27510,-7914129.399,5201780.669,21878,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,10.0,--,Boston,Mattapan,1525,Blue Hill Avenue,,1,-71.09383000000001,42.2718,20809
+40869,-7917123.448,5199691.7469999995,20229,"Cherry, Japanese Flowering",Prunus serrulata,1,18-24in,21.0,--,Boston,Hyde Park,17,Webster Street,,1,-71.12073000000001,42.257909999999995,21587
+12854,-7914448.441000001,5211618.041,24610,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,Fenway/Longwood,574,Huntington Avenue,,1,-71.0967,42.33715,22526
+26050,-7917145.267000001,5199619.101,20225,Apple/Crabapple,Malus species,1,6-12in,9.0,--,Boston,Hyde Park,31,Central Avenue,,1,-71.12093,42.25743,21556
+1631,-7916251.817000001,5209337.695,40311,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,9,Zamora Street,,1,-71.1129,42.32201,40078
+14341,-7913135.984,5211220.627,9875,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,Roxbury,8,Sojourner Truth Court,,2,-71.08491,42.334509999999995,7855
+27210,-7909138.056,5204826.202,18635,"Pear, Callery",Pyrus calleryana,1,6-12in,9.0,--,Boston,Dorchester,24,Salina Road,,4,-71.04899999999999,42.29204,18038
+24445,-7913382.0,5203685.875,35288,Apple/Crabapple,Malus species,1,6-12in,8.0,--,Boston,Dorchester,47,Middleton Street,,2,-71.08712,42.284459999999996,36667
+41407,-7913892.957,5205133.955,35383,"Zelkova, Japanese",Zelkova serrata,1,18-24in,21.0,--,Boston,Dorchester,54,Lorne Street,,1,-71.09170999999999,42.29408,36994
+7237,-7910330.732999999,5206271.7469999995,40575,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,0-3in,2.0,Spring 2022,Boston,Dorchester,1442,Dorchester Avenue,,2,-71.05971,42.30164,40320
+2757,-7918259.575,5215034.016,25509,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Allston-Brighton,47,Easton Street,,1,-71.13094,42.35983,25406
+12510,-7904438.592,5220026.97,29531,"Dogwood, Kousa",Cornus kousa,1,3-6in,3.0,--,--,East Boston,174,Waldemar Avenue,,1,-71.00678,42.39297,28426
+12101,-7905613.458,5218245.967,5478,Apple/Crabapple,Malus species,1,3-6in,3.0,--,--,East Boston,111,Moore Street,,1,-71.01733,42.38115,6759
+29280,-7917795.818,5199877.952,35917,"Cherry, Japanese Flowering",Prunus serrulata,1,6-12in,11.0,--,Boston,Hyde Park,38,Greenbrook Road,,1,-71.12677,42.25915,35863
+3418,-7916908.602000001,5203996.75,16250,Ginkgo,Ginkgo biloba,1,0-3in,1.0,--,Boston,Jamaica Plain,1,Neponset Avenue,,1,-71.1188,42.28653,17043
+17172,-7919081.557999999,5215471.966,37329,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Allston-Brighton,390,Western Avenue,,2,-71.13832,42.36274,36657
+15878,-7918057.419,5203505.915,11672,"Cherry, Japanese Flowering",Prunus serrulata,1,3-6in,4.0,--,Boston,Roslindale,55,Kittredge Street,,1,-71.12912,42.28326,11379
+23158,-7921258.967999999,5214166.312,18778,"Cherry, Japanese Flowering",Prunus serrulata,1,6-12in,7.0,--,Boston,Allston-Brighton,188,Faneuil Street,,1,-71.15788,42.35407,18628
+29988,-7911879.187000001,5212077.068,11187,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,South End,411,Shawmut Avenue,,2,-71.07361999999999,42.3402,10687
+31161,-7914887.04,5210338.968,23281,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,Mission Hill,256,Parker Hill Avenue,,1,-71.10064,42.32866,24274
+12423,-7917985.061000001,5201762.315,20952,"Cherry, Yoshino Flowering",Prunus yedoensis,1,3-6in,3.0,--,Boston,Roslindale,25,Alpheus Road,,2,-71.12847,42.271679999999996,20389
+24075,-7908231.804,5211362.483,31664,"Oak, Pin",Quercus palustris,1,6-12in,7.0,--,Boston,South Boston,583,East Broadway,,1,-71.04086,42.33546,30297
+34822,-7912500.35,5212995.489,6509,"Pear, Callery",Pyrus calleryana,1,12-18in,14.0,--,--,Back Bay/Beacon Hill,43,Saint Botolph Street,,2,-71.0792,42.3463,7017
+37067,-7917657.782000001,5214075.478999999,26403,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,Allston-Brighton,93,Gardner Street,,1,-71.12553,42.35347,27052
+43284,-7919334.699,5198954.785,20653,"Sycamore, American",Platanus occidentalis,1,24-30in,27.0,--,Boston,Hyde Park,34,Kardon Road,,1,-71.14059,42.253009999999996,20033
+20072,-7909593.241,5213805.846,7987,"Linden, Littleleaf",Tilia cordata,1,3-6in,5.0,--,--,Central Boston,245,Summer Street,,7,-71.05309,42.35168,9855
+10944,-7911318.609,5205009.829,42316,Serviceberry,Amelanchier species,1,0-3in,2.0,Fall 2021,Boston,Dorchester,70,Lyndhurst Street,,2,-71.06858000000001,42.29326,41760
+31404,-7914979.435,5212007.489,37535,"Linden, Littleleaf",Tilia cordata,1,12-18in,12.0,--,Boston,Fenway/Longwood,45,Avenue Louis Pasteur,,5,-71.10146999999999,42.33974,37233
+2799,-7909785.267999999,5208157.382,31280,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Dorchester,29,Sagamore Street,,1,-71.05481,42.314170000000004,31458
+27100,-7909771.909,5214016.731000001,7734,"Oak, Pin",Quercus palustris,1,6-12in,9.0,--,--,Central Boston,583,Atlantic Avenue,,3,-71.05469000000001,42.35308,9202
+39807,-7916679.284,5204894.223,16462,"Maple, Norway",Acer platanoides,1,18-24in,19.0,--,Boston,Jamaica Plain,208,Wachusett Street,,1,-71.11674000000001,42.29249,15002
+18315,-7910355.222999999,5217742.337,488,"Oak, Swamp White",Quercus bicolor,1,3-6in,4.0,--,Boston,Charlestown,21,Monument Street,,1,-71.05993000000001,42.37781,982
+6253,-7919272.817000001,5212387.54,44742,Ginkgo,Ginkgo biloba,1,0-3in,2.0,Fall 2023,Boston,Allston-Brighton,5,Washington Street,,2,-71.14004,42.342259999999996,43882
+8961,-7907566.002,5211512.926,26299,"Maple, Red",Acer rubrum,1,0-3in,2.0,Spring 2023,Boston,South Boston,621,East 3rd Street,,1,-71.03487,42.336459999999995,26568
+22883,-7909421.698,5214639.171,8514,"Planetree, London",Platanus x acerifolia,1,6-12in,6.0,--,--,Central Boston,1673,John F Fitzgerald Surface Road,,3,-71.05154,42.357209999999995,9975
+3105,-7913461.993,5209013.693,45850,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Roxbury,156,Walnut Ave,,3,-71.08784,42.31986,43156
+3016,-7918977.932,5214371.716,45497,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Allston-Brighton,72,Hano Street,,1,-71.13739,42.35544,42876
+25299,-7910453.63,5208681.88,9347,"Maple, Hedge",Acer campestre,1,6-12in,8.0,--,Boston,Dorchester,15,Bakersfield Street,,1,-71.06081,42.31765,8281
+32160,-7907849.422,5218161.575,4448,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,13.0,--,--,East Boston,60,White Street,,1,-71.03742,42.380590000000005,4326
+25090,-7910152.065,5209819.4969999995,36970,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,Dorchester,25,Howell Street,,1,-71.05811,42.32521,36971
+30790,-7904239.331,5218708.028,4625,"Basswood, American",Tilia americana,1,12-18in,12.0,--,--,East Boston,57,Bayswater Street,,1,-71.00499,42.38422,4696
+10780,-7918550.129,5205503.581,38428,"Pear, Callery 'Chanticleer'",Pyrus calleryana 'Chanticleer',1,0-3in,2.0,Fall 2021,Boston,West Roxbury,2,Shrewsbury Road,,2,-71.13354,42.29654,37711
+31248,-7914092.219,5201612.63,36350,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,Mattapan,1556,Blue Hill Avenue,,1,-71.0935,42.27068,35204
+28097,-7908969.852000001,5211557.2,26816,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,Boston,South Boston,416,West Broadway,,1,-71.04749,42.33675,26592
+41349,-7913430.424,5211018.99,24750,"Planetree, London",Platanus x acerifolia,1,18-24in,21.0,--,Boston,Roxbury,185,Cabot Street,,7,-71.08755,42.33318,22653
+6573,-7919144.454,5202688.313,11591,"Hawthorn, Cockspur",Crataegus crus-galli,1,0-3in,2.0,Spring 2023,Boston,Roslindale,15,Haydn Street,,1,-71.13889,42.27783,11676
+24046,-7913791.656,5209191.653,16385,"Oak, Pin",Quercus palustris,1,6-12in,7.0,--,Boston,Roxbury,15,Kensington Street,,5,-71.0908,42.32104,17068
+4168,-7921050.8,5205226.808999999,31152,Apple/Crabapple,Malus species,1,0-3in,2.0,--,Boston,West Roxbury,235,Manthorne Road,,1,-71.15601,42.2947,30691
+2969,-7919909.035,5202565.15,45105,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,1,0-3in,0.0,--,Boston,West Roxbury,36,Robin Street,,1,-71.14575,42.27701,42804
+39428,-7907725.857000001,5218160.821,4457,"Basswood, American",Tilia americana,1,18-24in,19.0,--,--,East Boston,80,White Street,,1,-71.03631,42.38058,4293
+41385,-7911088.819,5207048.715,1815,"Zelkova, Japanese",Zelkova serrata,1,18-24in,21.0,--,Boston,Dorchester,260,Bowdoin Street,-264A,1,-71.06652,42.3068,2274
+43299,-7906472.4,5218206.785,4618,"Basswood, American",Tilia americana,1,24-30in,28.0,--,--,East Boston,546,Saratoga Street,,1,-71.02505,42.38089,4657
+36419,-7919821.833,5212057.64,23545,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,16.0,--,Brookline,Allston-Brighton,78,Kilsyth Road,,1,-71.14497,42.340070000000004,24458
+37895,-7917690.51,5201292.205,20900,"Linden, Littleleaf",Tilia cordata,1,12-18in,17.0,--,Boston,Hyde Park,20,Beechmont Terrace,,1,-71.12581999999999,42.26855,20370
+42445,-7914938.247,5201823.243,21391,"Linden, Littleleaf",Tilia cordata,1,24-30in,24.0,--,Boston,Mattapan,19,Corman Road,,2,-71.1011,42.272079999999995,21968
+20071,-7909618.734,5213822.416,7981,"Linden, Littleleaf",Tilia cordata,1,3-6in,5.0,--,--,Central Boston,245,Summer Street,,10,-71.05331,42.35179,9844
+23200,-7914318.197000001,5203021.574,546,Elm,Ulmus species,1,6-12in,7.0,--,Boston,Mattapan,49,Hazleton Street,-51,1,-71.09553000000001,42.28004,1540
+41867,-7911478.437000001,5218142.436000001,5404,"Sweetgum, Common",Liquidambar styraciflua,1,18-24in,22.0,--,--,Charlestown,401,Main Street,,4,-71.07002,42.38046,6549
+9830,-7907419.727999999,5210761.04,20309,"Oak, Pin",Quercus palustris,1,0-3in,2.0,Spring 2023,Boston,South Boston,695,East 8th Street,,1,-71.03356,42.33146,21737
+31584,-7912351.85,5212436.714,29193,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,Boston,South End,158,West Newton Street,,2,-71.07786999999999,42.34259,28115
+37675,-7911160.062999999,5213419.186000001,7519,Honeylocust,Gleditsia triacanthos,1,12-18in,17.0,--,--,Central Boston,15,Fayette Street,,1,-71.06716,42.349109999999996,7447
+26003,-7910956.348999999,5207485.092,19086,"Zelkova, Japanese",Zelkova serrata,1,6-12in,8.0,--,Boston,Dorchester,27,Hendry Street,,1,-71.06533,42.3097,19994
+5266,-7922007.48,5204394.613,40072,"Crabapple, Royal Raindrops",Malus 'JFS-KW5',1,0-3in,2.0,Spring 2021,Boston,West Roxbury,29,Addington Road,,1,-71.1646,42.28917,38384
+37540,-7909375.055,5211913.364,26881,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,17.0,--,Boston,South Boston,280,West Broadway,,4,-71.05112,42.33912,26927
+31409,-7911952.658,5212973.348,2640,"Linden, Silver",Tilia tomentosa,1,12-18in,12.0,--,--,South End,308,Columbus Avenue,,3,-71.07428,42.34615,3289
+3633,-7907843.856000001,5211468.35,18848,"Linden, Littleleaf",Tilia cordata,1,0-3in,1.0,--,Boston,South Boston,210,K Street,,1,-71.03737,42.33616,19571
+35704,-7912155.26,5212201.768,33103,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,South End,105,West Newton Street,,3,-71.0761,42.341029999999996,33490
+12654,-7913132.645,5211192.768,31578,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,3.0,--,Boston,Roxbury,20,Sojourner Truth Court,,2,-71.08488,42.33433,32235
+32271,-7917615.481000001,5204129.77,33963,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,13.0,--,Boston,Roslindale,27,Bexley Road,,2,-71.12515,42.287409999999994,34839
+37135,-7920444.109,5202224.927,12912,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,12-18in,16.0,--,Boston,West Roxbury,29,Shaw Street,,2,-71.15056,42.27475,13355
+173,-7908139.966,5211579.037,10781,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South Boston,37,I Street,,1,-71.04003,42.336890000000004,12292
+11847,-7914670.4120000005,5208982.404,41850,"Zelkova, Japanese",Zelkova serrata,1,0-3in,2.0,Fall 2023,Boston,Jamaica Plain,1785,Columbus Avenue,,5,-71.09869,42.31965,41938
+1000,-7921867.329,5204618.381,40098,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,41,Lyall Street,,1,-71.16335,42.290659999999995,38362
+26575,-7911565.266,5211339.443,27613,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,Boston,South End,710,Albany Street,,1,-71.0708,42.3353,28629
+34250,-7910879.538,5217006.531,9046,"Linden, Littleleaf",Tilia cordata,1,12-18in,14.0,--,--,Charlestown,32,Washington Street,,1,-71.06464,42.37292,8818
+17998,-7910920.726,5212511.416,37648,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,South End,415,Harrison Street,,1,-71.06501,42.343090000000004,39552
+38394,-7911479.55,5202987.721,30500,"Pear, Callery",Pyrus calleryana,1,12-18in,17.0,--,Boston,Dorchester,924,Washington Street,,1,-71.07003,42.27982,31281
+42084,-7908025.306,5210571.459,25513,"Linden, Littleleaf",Tilia cordata,1,18-24in,23.0,--,Boston,South Boston,1546,Columbia Road,,2,-71.039,42.3302,25410
+16250,-7913429.868,5211047.15,24679,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,Roxbury,100,Cabot Street,,2,-71.08755,42.33336,22589
+13277,-7911481.777000001,5215020.759,8222,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,57,West Cedar Street,,1,-71.07005,42.35975,9318
+15421,-7911495.135,5205592.517,18291,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,3.0,--,Boston,Dorchester,50,Lindsey Street,,2,-71.07016999999999,42.297129999999996,18954
+38916,-7920909.424,5212210.804,36893,"Linden, Littleleaf",Tilia cordata,1,18-24in,18.0,--,Boston,Allston-Brighton,186,Chestnut Hill Avenue,,1,-71.15474,42.34109,36684
+36916,-7913638.48,5213089.475,37661,"Linden, Littleleaf",Tilia cordata,1,12-18in,16.0,--,Boston,Fenway/Longwood,1105,Boylston Street,,4,-71.08941999999999,42.346920000000004,39595
+19753,-7915785.387999999,5211294.115,26834,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Fenway/Longwood,44,Vining Street,,1,-71.10871,42.335,26645
+26209,-7919671.552,5212515.483,36364,Elm,Ulmus species,1,6-12in,9.0,--,Boston,Allston-Brighton,1625,Commonwealth Avenue,,2,-71.14362,42.343109999999996,35273
+11461,-7912349.444,5211681.7530000005,28425,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,Spring 2024,Boston,South End,586,Massachusetts Avenue,,2,-71.07784000000001,42.337579999999996,27791
+20865,-7919404.385,5198959.898,20657,"Pear, Callery",Pyrus calleryana,1,3-6in,5.0,--,Boston,Hyde Park,14,Dietz Road,,1,-71.14121999999999,42.253040000000006,20037
+24629,-7908393.217,5211250.444,26283,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,8.0,--,Boston,South Boston,570,East 4th Street,,11,-71.0423,42.33471,26709
+35671,-7917991.183999999,5199663.922,20363,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,Hyde Park,52,Child Street,,1,-71.12852,42.25772,21986
+31114,-7910415.336,5207986.37,19903,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,Dorchester,31,Sawyer Avenue,,1,-71.06047,42.31303,17762
+11778,-7922638.216,5203595.593,29692,"Zelkova, Japanese",Zelkova serrata,1,0-3in,2.0,Spring 2023,Boston,West Roxbury,12,Durant Street,,1,-71.17027,42.28386,28749
+3799,-7912753.045,5209001.953,23020,"Oak, Northern Red",Quercus rubra,7,0-3in,1.0,--,Boston,Roxbury,322,Warren Street,,1,-71.08147,42.31978,23481
+39947,-7920682.333,5200838.965,12796,"Oak, Northern Red",Quercus rubra,1,18-24in,19.0,--,Boston,West Roxbury,5041,Washington Street,,1,-71.1527,42.26554,13285
+27255,-7918991.39,5203518.554,31210,"Pear, Callery",Pyrus calleryana,1,6-12in,9.0,--,Boston,Roslindale,111,Walworth Street,,1,-71.13750999999999,42.28335,30847
+15726,-7921705.359,5203348.076,13613,Apple/Crabapple,Malus species,1,3-6in,4.0,--,Boston,West Roxbury,37,Dent Street,,1,-71.16189,42.28222,12504
+29853,-7908683.205,5211159.6389999995,26118,"Linden, Littleleaf",Tilia cordata,1,6-12in,11.0,--,Boston,South Boston,13,Linden Street,,1,-71.04491,42.334109999999995,26215
+39604,-7911289.194,5217902.676,3981,"Linden, Littleleaf",Tilia cordata,1,18-24in,19.0,--,--,Charlestown,7,Eden Street,,1,-71.06832,42.37887,2989
+24654,-7911826.867000001,5211695.749,33019,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,8.0,--,Boston,South End,21,Father Francis Gilday Street,,1,-71.07315,42.33767,33427
+19484,-7912138.562000001,5211560.212,119,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,South End,46,East Springfield Street,,1,-71.07595,42.33677,613
+35375,-7911359.77,5213483.502,7314,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,Central Boston,37,Winchester Street,,1,-71.06895,42.349540000000005,7267
+32523,-7910065.793,5217456.326,5045,Honeylocust,Gleditsia triacanthos,1,12-18in,13.0,--,--,Charlestown,61,Tremont Street,,4,-71.05733000000001,42.37591,5528
+30553,-7922786.271000001,5201664.228999999,12666,Tree of Heaven,Ailanthus altissima,1,6-12in,11.0,--,Boston,West Roxbury,1430,VFW Parkway,,2,-71.1716,42.27102,13213
+22067,-7909876.103999999,5214069.453,3077,"Linden, Littleleaf",Tilia cordata,1,6-12in,6.0,--,--,Central Boston,176,Federal Street,,3,-71.05563000000001,42.353429999999996,3146
+6056,-7910297.337,5214019.744,8488,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,--,Central Boston,19,Lincoln Street,,2,-71.05941,42.3531,9863
+40913,-7911209.044,5206253.234,19216,Honeylocust,Gleditsia triacanthos,1,18-24in,21.0,--,Boston,Dorchester,94,Topliff Street,,1,-71.0676,42.301520000000004,18563
+26735,-7915912.96,5209448.507,34954,"Linden, Littleleaf",Tilia cordata,1,6-12in,9.0,--,Boston,Jamaica Plain,126,Day Street,,1,-71.10986,42.32275,34213
+11420,-7911248.006,5208813.762,537,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,--,Boston,Dorchester,706,Dudley Street,-714,2,-71.06795,42.318529999999996,1531
+23532,-7920372.864,5213327.908,23627,Honeylocust,Gleditsia triacanthos,1,6-12in,7.0,--,Boston,Allston-Brighton,736,Cambridge Street,,22,-71.14992,42.34851,24495
+39333,-7918879.512999999,5205270.452,15456,"Sycamore, American",Platanus occidentalis,1,18-24in,18.0,--,Boston,West Roxbury,40,Buchanan Road,,4,-71.13651,42.294990000000006,15984
+14558,-7918290.0770000005,5196104.483,36125,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,Hyde Park,41,Clifford Street,,1,-71.13121,42.23405,35011
+24928,-7916544.587,5207508.574,15803,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,Jamaica Plain,289,Centre Street,,2,-71.11553,42.30986,16290
+29771,-7911718.887,5214543.211,777,"Linden, Littleleaf",Tilia cordata,1,6-12in,11.0,--,--,Back Bay/Beacon Hill,101,Chestnut Street,,1,-71.07218,42.35658,1779
+6902,-7918811.609,5215316.188,25477,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Allston-Brighton,1,Raymond Street,,1,-71.13589,42.361709999999995,25324
+27303,-7914042.125,5210754.565,24741,"Planetree, London",Platanus x acerifolia,1,6-12in,9.0,--,Boston,Roxbury,2223,Malcolm X Boulevard,,1,-71.09305,42.33142,22672
+4199,-7911335.948,5203669.022,35102,Apple/Crabapple,Malus species,1,0-3in,2.0,--,Boston,Dorchester,46,Burt Street,,1,-71.06874,42.28435,36067
+24065,-7914859.21,5204559.241,21506,"Oak, Pin",Quercus palustris,1,6-12in,7.0,--,Boston,Mattapan,438,American Legion Highway,,34,-71.10039,42.290259999999996,22338
+22903,-7909405.668,5211560.212,37450,"Planetree, London",Platanus x acerifolia,1,6-12in,6.0,--,Boston,South Boston,193,West Fifth Street,,1,-71.0514,42.33677,36894
+17277,-7921982.544,5203482.743,10956,"Lilac, Japanese Tree",Syringa reticulata,1,3-6in,4.0,--,Boston,West Roxbury,97,Perham Street,,2,-71.16438000000001,42.28311,12097
+37749,-7911742.2639999995,5208792.685,22723,Honeylocust,Gleditsia triacanthos,1,12-18in,17.0,--,Boston,Roxbury,2,Woodward Park Street,,1,-71.07239,42.31839,23134
+9233,-7907538.271000001,5211530.69,26318,"Maple, Red 'October Glory'",Acer rubrum 'October Glory',1,0-3in,2.0,Fall 2023,Boston,South Boston,628,East 3rd Street,,1,-71.03461999999999,42.33657,27018
+34449,-7917879.307999999,5207204.508,15508,"Maple, Norway",Acer platanoides,1,12-18in,14.0,--,Boston,Jamaica Plain,7,Mossdale Road,,1,-71.12751999999999,42.30784,15518
+41094,-7917538.67,5197208.563,36066,"Linden, Littleleaf",Tilia cordata,1,18-24in,21.0,--,Boston,Hyde Park,18,Halsey Road,,1,-71.12446,42.2414,35035
+18209,-7914117.822000001,5202251.255,21913,"Oak, Pin",Quercus palustris,1,3-6in,4.0,--,Boston,Mattapan,1443,Blue Hill Avenue,,1,-71.09373000000001,42.27493,20966
+10500,-7908898.051,5203801.737,17699,"Oak, White",Quercus alba,1,0-3in,2.0,--,Boston,Dorchester,11,Hallet Street,,3,-71.04684,42.28523,18292
+1570,-7911203.477999999,5211689.273,37854,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South End,650,Albany Street,A,2,-71.06755,42.33763,39763
+40330,-7912545.991,5212780.108,6297,"Linden, Littleleaf",Tilia cordata,1,18-24in,20.0,--,--,Back Bay/Beacon Hill,21,Follen Street,,1,-71.07961,42.34487,6415
+27795,-7910515.522999999,5215439.123,931,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,--,Central Boston,25,Hawkins Street,,1,-71.06137,42.36252,27
+3931,-7922162.882,5203309.708000001,13563,Rose-of-Sharon,Hibiscus syriacus,1,0-3in,1.0,--,Boston,West Roxbury,78,Sanborn Avenue,,2,-71.166,42.28196,12579
+31003,-7909360.584,5215890.801,4071,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,--,Central Boston,27,Union Wharf,,1,-71.05099,42.365520000000004,3846
+37534,-7922231.9,5213398.55,24017,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,17.0,--,Boston,Allston-Brighton,38,North Crescent Circuit,,1,-71.16662,42.34898,24963
+23234,-7909811.539,5204878.421,16983,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,7.0,--,Boston,Dorchester,23,Spaulding Street,,1,-71.05505,42.292390000000005,15382
+4506,-7920124.799,5205000.1389999995,14652,"Cherry, Sargent",Prunus sargentii,1,0-3in,2.0,Fall 2023,Boston,West Roxbury,14,Willowdean Avenue,,2,-71.14769,42.29319,13670
+17385,-7913336.359,5212941.267,2542,"Linden, Littleleaf",Tilia cordata,1,3-6in,4.0,--,--,Back Bay/Beacon Hill,8,Saint Germain Street,,3,-71.08671,42.34594,3059
+32493,-7909474.686000001,5215446.353999999,4046,Honeylocust,Gleditsia triacanthos,1,12-18in,13.0,--,--,Central Boston,166,Commercial Street,,4,-71.05202,42.36257,3906
+40298,-7910139.262999999,5208943.374,44751,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,18-24in,20.0,--,Boston,Dorchester,27,Edison Green,,1,-71.05799,42.319390000000006,43900
+3308,-7921809.999,5200931.928,12742,"Cherry, Okame",Prunus 'Okame',1,0-3in,1.0,--,Boston,West Roxbury,470,Centre Street,,1,-71.16283,42.26616,13196
+43770,-7917828.101,5213613.041,36495,"Oak, Northern Red",Quercus rubra,1,>30in,32.0,--,Boston,Allston-Brighton,1146,Commonwealth Avenue,,6,-71.12706,42.3504,35388
+2132,-7912290.17,5212348.731000001,41626,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South End,134,West Newton Street,,1,-71.07731,42.342009999999995,41624
+6708,-7910664.692000001,5209624.364,9702,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Dorchester,55,Enterprise Street,,6,-71.06271,42.32391,7620
+34968,-7917270.947000001,5204828.459,33985,"Planetree, London",Platanus x acerifolia,1,12-18in,14.0,--,Boston,Roslindale,4012,Washington Street,,1,-71.12206,42.29205,34941
+4500,-7905375.231000001,5218838.909,44794,"Cherry, Okame",Prunus 'Okame',1,0-3in,2.0,Spring 2024,Boston,East Boston,155,Addison Street,,2,-71.0152,42.385090000000005,44016
+8188,-7908222.068,5211435.155,43026,"Linden, Silver",Tilia tomentosa,1,0-3in,2.0,Spring 2023,Boston,South Boston,100,Emerson Street,,1,-71.04075999999999,42.33594,43428
+19146,-7912564.915,5212520.603999999,10865,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,5.0,--,Boston,South End,66,West Rutland Square,,3,-71.07978,42.34315,11832
+30718,-7919138.331,5214002.421,23694,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,12.0,--,Boston,Allston-Brighton,524,Cambridge Street,,1,-71.13883,42.352990000000005,24592
+330,-7915680.748,5201963.755,21372,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Mattapan,590,Cummins highway,,1,-71.10777,42.27301,21847
+17212,-7914346.833,5212805.499,44708,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Fenway/Longwood,1260,Boylston Street,,4,-71.09579000000001,42.345040000000004,43811
+37331,-7907956.288,5212606.904,25091,"Pear, Callery",Pyrus calleryana,1,12-18in,16.0,--,Boston,South Boston,653,Summer Street,,4,-71.03838,42.343720000000005,25058
+5260,-7916862.961,5204158.3610000005,32081,"Crabapple, Royal Raindrops",Malus 'JFS-KW5',1,0-3in,2.0,--,Boston,Jamaica Plain,384,Hyde Park Avenue,,1,-71.11839,42.2876,30417
+22629,-7914019.8610000005,5205298.595,32265,"Oak, Pin",Quercus palustris,1,6-12in,6.0,--,Boston,Dorchester,150,American Legion Highway,,3,-71.09285,42.29518,31902
+15331,-7917519.746,5215147.757,37288,Serviceberry,Amelanchier species,1,3-6in,3.0,--,Boston,Allston-Brighton,37,Windom Street,,1,-71.12429,42.36059,36675
+41186,-7912013.884,5206705.228,18940,"Maple, Norway",Acer platanoides,1,18-24in,21.0,--,Boston,Dorchester,120,Olney Street,,1,-71.07483,42.304520000000004,19766
+4303,-7917761.308999999,5207351.271000001,15505,"Cherry, Autumnalis",Prunus subhirtella 'Autumnalis',1,0-3in,2.0,--,Boston,Jamaica Plain,35,Mossdale Road,,1,-71.12646,42.308820000000004,15506
+32306,-7904488.686000001,5219323.541999999,5591,"Basswood, American",Tilia americana,1,12-18in,13.0,--,--,East Boston,52,Ashley Street,,2,-71.00723,42.3883,5671
+16153,-7920840.406,5213435.302,24536,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,4.0,--,Boston,Allston-Brighton,373,Washington Street,,1,-71.15411999999999,42.34922,23924
+15129,-7917096.732000001,5198238.933,36024,"Oak, Willow",Quercus phellos,1,3-6in,3.0,--,Boston,Hyde Park,144,Dana Avenue,,1,-71.12049,42.24825,35990
+42339,-7911369.344,5214994.847,33254,"Basswood, American",Tilia americana,1,24-30in,24.0,--,--,Back Bay/Beacon Hill,71,Revere Street,,1,-71.06904,42.35957,32697
+23025,-7908679.865,5211453.742,26651,"Zelkova, Japanese",Zelkova serrata,1,6-12in,6.0,--,Boston,South Boston,67,Dorchester Street,,1,-71.04488,42.336059999999996,26253
+24523,-7910005.68,5208535.123,35733,"Basswood, American",Tilia americana,1,6-12in,8.0,--,Boston,Dorchester,999,Dorchester Avenue,,1,-71.05679,42.31668,35733
+22618,-7915176.471,5200540.076,20093,"Oak, Pin",Quercus palustris,1,6-12in,6.0,--,Boston,Hyde Park,745,River Street,,3,-71.10324,42.26355,21320
+38488,-7915054.018999999,5211172.288,24467,"Zelkova, Japanese",Zelkova serrata,1,12-18in,17.0,--,Boston,Mission Hill,21,Worthington Street,,1,-71.10214,42.33419,23892
+20770,-7914919.323,5200832.647,35842,"Oak, Swamp White",Quercus bicolor,1,3-6in,5.0,--,Boston,Hyde Park,22,Caton Street,,1,-71.10093,42.2655,35804
+30055,-7906922.13,5210975.32,25175,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,South Boston,152,O Street,,1,-71.02909,42.33289,25067
+41031,-7916325.288,5204247.594,16036,"Linden, Littleleaf",Tilia cordata,1,18-24in,21.0,--,Boston,Jamaica Plain,67,Meyer Street,,1,-71.11355999999999,42.28819,16571
+44107,-7907856.101,5210514.54,25508,"Elm, American",Ulmus americana,1,>30in,44.0,--,Boston,South Boston,415,K Street,,1,-71.03748,42.32983,25405
+11107,-7921764.357999999,5204624.098999999,14090,"Serviceberry, Downy",Amelanchier arborea,1,0-3in,2.0,--,Boston,West Roxbury,48,Dwinell Street,,1,-71.16242,42.2907,13007
+13299,-7915862.867000001,5203931.143,11455,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Roslindale,596,American Legion Highway,,2,-71.10941,42.28609,10960
+42539,-7921720.943,5214197.795,31568,"Maple, Norway",Acer platanoides,1,24-30in,24.0,--,Boston,Allston-Brighton,52,Hobson Street,,1,-71.16203,42.354279999999996,32205
+18036,-7916701.5479999995,5207495.328,15672,"Maple, Sugar",Acer saccharum,1,3-6in,4.0,--,Boston,Jamaica Plain,14,Holbrook Street,,1,-71.11694,42.30977,16213
+16957,-7915229.2360000005,5211209.634,24417,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Mission Hill,708,Huntington Avenue,,1,-71.10370999999999,42.33444,23942
+11708,-7916873.425,5207374.302,15683,"Zelkova, Japanese",Zelkova serrata,1,0-3in,2.0,Spring 2023,Boston,Jamaica Plain,1,Aldworth Street,,1,-71.11848,42.30897,16164
+3609,-7910384.166,5204815.969,16775,"Lilac, Japanese Tree",Syringa reticulata,2,0-3in,1.0,--,Boston,Dorchester,8,Florida Street,,5,-71.06019,42.29197,15172
+12711,-7914985.446,5213134.811000001,29740,"Elm, Chinese",Ulmus parvifolia,1,3-6in,3.0,--,Boston,Fenway/Longwood,775,Beacon St,,4,-71.10152,42.347229999999996,28984
+1864,-7910566.73,5209688.053,40777,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,4,Lucy Street,,1,-71.06183,42.32434,40418
+39859,-7908056.031,5210746.132,25665,"Maple, Norway",Acer platanoides,1,18-24in,19.0,--,Boston,South Boston,557,East 8th Street,,1,-71.03928,42.33136,25596
+42640,-7918130.89,5202801.154,11777,"Basswood, American",Tilia americana,1,24-30in,25.0,--,Boston,Roslindale,10,Malverna Road,,1,-71.12978000000001,42.27858,11592
+4579,-7910284.962,5205347.767,42445,"Cherry, Yoshino",Prunus x yedoensis,1,0-3in,2.0,Spring 2021,Boston,Dorchester,51,Dix Street,,1,-71.0593,42.29551,41843
+22384,-7907511.01,5210634.702,10016,"Maple, Red",Acer rubrum,1,6-12in,6.0,--,Boston,South Boston,115,Marine Road,,1,-71.03438,42.33062,7938
+13160,-7910761.094,5217973.956,3955,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,--,Charlestown,236,Bunker Hill Street,,1,-71.06358,42.37934,3990
+23768,-7906937.715,5215700.967,38190,"Maple, Freeman",Acer x freemanii,1,6-12in,7.0,--,--,East Boston,541,Sumner Street,b,1,-71.02923,42.364259999999994,37567
+37216,-7913196.097,5210887.379,9816,"Oak, Northern Red",Quercus rubra,1,12-18in,16.0,--,Boston,Roxbury,22,Estabrook Road,,3,-71.08545,42.3323,7759
+39134,-7915106.896000001,5207218.055,15846,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,18-24in,18.0,--,Boston,Jamaica Plain,113,Forest Hills Street,,1,-71.10262,42.30793,16313
+14737,-7910934.085,5215112.656,1608,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,56,Joy Street,,2,-71.06513000000001,42.36036,2107
+25083,-7912389.031,5208539.763,36411,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,Roxbury,229,Blue Hill Avenue,,1,-71.0782,42.31671,35300
+5954,-7910885.103999999,5205463.991,40474,"Elm, Valley Forge",Ulmus americana 'Valley Forge',1,0-3in,2.0,Fall 2021,Boston,Dorchester,14,Upland Avenue,,3,-71.06469,42.296279999999996,40208
+25088,-7916736.057,5213776.021000001,37445,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,Allston-Brighton,915,Commonwealth Avenue,,9,-71.11725,42.35148,36880
+42643,-7914939.36,5212086.857,27139,"Basswood, American",Tilia americana,1,24-30in,25.0,--,Boston,Fenway/Longwood,45,Avenue Louis Pasteur,,11,-71.10110999999999,42.340270000000004,27373
+23370,-7912204.908,5202231.847,21736,Goldenrain Tree,Koelreuteria paniculata,1,6-12in,7.0,--,Boston,Mattapan,3,Paula Road,,5,-71.07655,42.2748,20679
+273,-7911663.895,5213285.432,18045,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,--,Central Boston,210,Columbus Avenue,,2,-71.07169,42.34822,18857
+15388,-7911949.319,5212452.829,2120,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,3.0,--,Boston,South End,619,Tremont Street,,1,-71.07425,42.3427,1195
+43389,-7916480.022000001,5203402.996,11379,"Oak, Northern Red",Quercus rubra,1,24-30in,28.0,--,Boston,Roslindale,745,American Legion Highway,,1,-71.11495,42.282579999999996,10888
+43812,-7917328.276000001,5213818.65,26467,"Elm, American",Ulmus americana,1,>30in,33.0,--,Boston,Allston-Brighton,1043,Commonwealth Avenue,,2,-71.12257,42.35176,27262
+37889,-7910104.755,5203286.085,17776,"Linden, Littleleaf",Tilia cordata,1,12-18in,17.0,--,Boston,Dorchester,12,Milwood Street,,2,-71.05768,42.2818,18568
+35504,-7912474.747,5210809.828,26966,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,Boston,Roxbury,1218,Melnea Cass Boulevard,,8,-71.07897,42.331790000000005,27263
+35356,-7909614.504,5217640.469,6081,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,Charlestown,60,4th Avenue,,1,-71.05328,42.37713,5718
+12123,-7914462.356000001,5212403.58,12458,Apple/Crabapple,Malus species,1,3-6in,3.0,--,Boston,Fenway/Longwood,129,Jersey Street,,1,-71.09682,42.34237,12211
+39529,-7910568.957,5207340.433,18705,Honeylocust,Gleditsia triacanthos,1,18-24in,19.0,--,Boston,Dorchester,36,Church Street,,1,-71.06185,42.30874,18687
+322,-7914647.622,5209013.856000001,22233,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,1785,Columbus Avenue,,3,-71.09849,42.31986,21481
+7193,-7920864.897000001,5204136.843,34642,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,0-3in,2.0,Fall 2023,Boston,West Roxbury,20,Maple Street,,1,-71.15434,42.287459999999996,33738
+35703,-7913283.482999999,5210406.727,32605,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,Roxbury,2,Dudley Street,,4,-71.08624,42.32911,33098
+5757,-7907926.232000001,5218033.18,4429,"Elm, Hybrid",Ulmus x,1,0-3in,2.0,Spring 2024,--,East Boston,23,Monmouth Street,,1,-71.03811,42.379740000000005,4199
+42823,-7919102.709,5213408.943,23640,"Oak, Northern Red",Quercus rubra,1,24-30in,25.0,--,Boston,Allston-Brighton,1407,Commonwealth Avenue,,1,-71.13851,42.34904,24542
+16270,-7909238.688999999,5213544.506,25125,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,South Boston,285,Summer Street,,1,-71.0499,42.34995,25096
+4162,-7919467.837,5205018.527,29749,Apple/Crabapple,Malus species,1,0-3in,2.0,--,Boston,West Roxbury,212,Weld Street,,1,-71.14179,42.29332,29010
+29533,-7911777.886,5213473.26,7068,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,--,Back Bay/Beacon Hill,180,Berkeley Street,,5,-71.07271,42.349470000000004,7311
+13058,-7911055.926,5216227.041,42831,Hardy Rubber Tree,Eucommia ulmoides,1,3-6in,3.0,--,--,Central Boston,165,Nashua Street,,5,-71.06622,42.36775,40963
+33468,-7907309.522000001,5217375.557,329,"Planetree, London",Platanus x acerifolia,1,12-18in,13.0,--,--,East Boston,220,Chelsea Street,a,1,-71.03256999999999,42.375370000000004,823
+9027,-7910045.755,5215450.874,33282,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,--,Central Boston,9,John F Fitzgerald Surface Road,,3,-71.05715,42.3626,32680
+14856,-7912763.732000001,5212702.241,33154,"Oak, Pin",Quercus palustris,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,117,Saint Botolph Street,,1,-71.08157,42.34435,32584
+2111,-7910429.742000001,5207664.345,42165,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,10,Dewolf Street,,1,-71.0606,42.31089,41451
+41011,-7905013.001,5218800.563999999,15084,"Linden, Littleleaf",Tilia cordata,1,18-24in,21.0,--,--,East Boston,727,Bennington Street,,2,-71.01194,42.38483,14049
+39921,-7911135.573,5202517.55,9506,"Maple, Red",Acer rubrum,1,18-24in,19.0,--,Boston,Mattapan,2165,Dorchester Avenue,,1,-71.06694,42.2767,9353
+23316,-7911571.945,5214940.162,33226,"Elm, Frontier",Ulmus x 'Frontier',1,6-12in,7.0,--,--,Back Bay/Beacon Hill,120,Charles Street,,1,-71.07086,42.35921,32635
+43853,-7920581.477000001,5203116.214,13244,"Oak, Pin",Quercus palustris,1,>30in,33.0,--,Boston,West Roxbury,12,Danville Street,,1,-71.15179,42.28067,14545
+37687,-7910696.529,5215150.62,8125,Honeylocust,Gleditsia triacanthos,1,12-18in,17.0,--,--,Back Bay/Beacon Hill,21,Bowdoin Street,,1,-71.063,42.36061,9177
+17721,-7919947.067000001,5203084.015,13261,"Maple, Norway",Acer platanoides,1,3-6in,4.0,--,Boston,West Roxbury,198,Stratford Street,,1,-71.1461,42.28046,14647
+24978,-7908293.586,5211020.044,25815,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,South Boston,136,H Street,,3,-71.04141,42.33318,25835
+7908,-7911015.347999999,5213049.26,11134,"Linden, Littleleaf",Tilia cordata,1,0-3in,2.0,--,Boston,South End,100,Shawmut Avenue,,1,-71.06586,42.34666,10576
+33639,-7911756.7360000005,5213080.287,1669,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,14.0,--,Boston,South End,77,Chandler Street,,2,-71.07252,42.34686,2379
+7515,-7912480.312000001,5202267.353,41002,"Hornbeam, American",Carpinus caroliniana,1,0-3in,2.0,Spring 2021,Boston,Mattapan,35,Freeland Street,,1,-71.07902,42.27503,42200
+9986,-7908050.318,5217501.038,42328,"Oak, Pin",Quercus palustris,1,0-3in,2.0,Spring 2023,Boston,East Boston,252,Meridian Street,,1,-71.03922,42.37621,41703
+27036,-7912395.71,5202289.1680000005,15208,"Maple, Sugar",Acer saccharum,1,6-12in,9.0,--,Boston,Mattapan,49,Maryknoll Street,,1,-71.07826,42.27518,15725
+13371,-7913536.734,5204999.566000001,18758,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Dorchester,917,Blue Hill Avenue,,2,-71.08851,42.29319,19349
+35039,-7909322.179,5212067.278,26721,"Zelkova, Japanese",Zelkova serrata,1,12-18in,14.0,--,Boston,South Boston,150,West 3rd Street,,1,-71.05065,42.340140000000005,26540
+26447,-7910246.13,5215381.572,8821,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,--,Central Boston,15,Sudbury Street,,5,-71.05895,42.362140000000004,8642
+13005,-7913447.679,5211195.78,141,"Hackberry, Northern",Celtis occidentalis,1,3-6in,3.0,--,Boston,Roxbury,159,Ruggles Street,,3,-71.08771,42.33435,635
+11189,-7913159.3610000005,5210765.557,9765,Sweetgum 'Happidaze',Liquidambar styraciflua 'Happdell',1,0-3in,2.0,Spring 2024,Boston,Roxbury,158,Dewitt Drive,,2,-71.08511999999999,42.33149,7744
+30362,-7913257.99,5212990.067,7016,"Pear, Callery",Pyrus calleryana,1,6-12in,11.0,--,--,Back Bay/Beacon Hill,11,Belvidere Street,,1,-71.08601,42.34626,6740
+25573,-7912857.686000001,5209470.941000001,9611,"Oak, Northern Red",Quercus rubra,1,6-12in,8.0,--,Boston,Roxbury,230,Warren Street,,1,-71.08241,42.3229,7585
+36930,-7919617.005,5204085.079,42015,"Maple, Freeman",Acer x freemanii,1,12-18in,16.0,--,Boston,Roslindale,128,Tyndale Street,,1,-71.14313,42.28711,41252
+25172,-7910894.01,5217014.819,9023,"Linden, Littleleaf",Tilia cordata,1,6-12in,8.0,--,--,Charlestown,30,Washington Street,,1,-71.06477,42.37298,8789
+4152,-7922421.142999999,5213596.038,24057,Apple/Crabapple,Malus species,1,0-3in,2.0,Fall 2022,Boston,Allston-Brighton,8,Nonantum Street,,1,-71.16832,42.35029,24940
+27279,-7914996.132999999,5211298.633,37047,"Pear, Callery",Pyrus calleryana,1,6-12in,9.0,--,Boston,Mission Hill,49,Worthington Street,,2,-71.10162,42.335029999999996,37144
+42162,-7916388.74,5209166.058,16338,"Maple, Norway",Acer platanoides,1,18-24in,23.0,--,Boston,Jamaica Plain,12,Ashcroft Street,,1,-71.11413,42.32087,17056
+16269,-7909254.274,5213554.297,25122,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,South Boston,281,Summer Street,,1,-71.05004,42.35001,25093
+32348,-7912495.341,5209810.463,9602,"Cherry, Yoshino Flowering",Prunus yedoensis,1,12-18in,13.0,--,Boston,Roxbury,67,Whiting Street,,1,-71.07915,42.32515,7546
+1053,-7919406.6110000005,5204934.855,40185,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,14,Ravenna Road,,1,-71.14124,42.292759999999994,38434
+25641,-7913277.36,5212340.325,10653,"Oak, Pin",Quercus palustris,1,6-12in,8.0,--,Boston,Fenway/Longwood,277,Huntington Avenue,,1,-71.08618,42.34195,11277
+14273,-7914527.477999999,5213524.171,1423,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,--,Fenway/Longwood,27,Deerfield Street,,2,-71.09741,42.34981,364
+31321,-7912045.052999999,5213806.598999999,7273,"Linden, Littleleaf",Tilia cordata,1,12-18in,12.0,--,--,Back Bay/Beacon Hill,97,Newbury Street,,1,-71.07511,42.35168,7183
+34483,-7919836.304,5198491.581,20473,"Maple, Norway",Acer platanoides,1,12-18in,14.0,--,Boston,Hyde Park,84,Leighton Road,,1,-71.1451,42.24993,20046
+43866,-7920151.339,5205179.855,14517,"Sycamore, American",Platanus occidentalis,1,>30in,33.0,--,Boston,West Roxbury,40,Carlson Circle,,1,-71.14793,42.29439,14877
+27581,-7915631.7,5206100.796,44054,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,10.0,--,Boston,Jamaica Plain,399,Forest Hills Street,,13,-71.10733,42.300509999999996,43340
+15951,-7918372.453,5202399.898,31223,"Cherry, Okame",Prunus 'Okame',1,3-6in,4.0,--,Boston,Roslindale,84,Glendower Road,,1,-71.13195,42.275909999999996,31472
+22330,-7907404.589,5211373.928,26388,"Maple, Norway",Acer platanoides,1,6-12in,6.0,--,Boston,South Boston,787,East Broadway,,2,-71.03341999999999,42.33553,26947
+16111,-7911893.659,5213700.857,7303,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,4.0,--,--,Back Bay/Beacon Hill,450,Boylston Street,,8,-71.07375,42.35098,7247
+2385,-7914506.3270000005,5210547.366,41156,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Mission Hill,40,Terrace Street,,1,-71.09722,42.330040000000004,42277
+15189,-7912175.297,5213200.933999999,6849,"Pear, Callery",Pyrus calleryana,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,142,Dartmouth Street,,2,-71.07628000000001,42.34766,5296
+38545,-7910890.114,5205475.127,17806,"Ash, Green",Fraxinus pennsylvanica,1,18-24in,18.0,--,Boston,Dorchester,14,Upland Avenue,,2,-71.06474,42.29635,18721
+30735,-7914879.248,5213025.161,29318,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,12.0,--,Boston,Fenway/Longwood,1,Overland Street,,1,-71.10056999999999,42.3465,28290
+21073,-7909220.432999999,5211562.321,26799,"Zelkova, Japanese",Zelkova serrata,1,3-6in,5.0,--,Boston,South Boston,370,West Fourth Street,,2,-71.04974,42.33678,26782
+39456,-7913465.49,5205191.291999999,18767,"Elm, American",Ulmus americana,1,18-24in,19.0,--,Boston,Dorchester,900,Blue Hill Avenue,,1,-71.08787,42.29446,19377
+25948,-7912303.313999999,5211055.733,27108,"Sweetgum, Common",Liquidambar styraciflua,1,6-12in,8.0,--,Boston,Roxbury,55,East Lenox Street,,2,-71.07743,42.333420000000004,26191
+19682,-7911618.7,5207665.88,19522,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Dorchester,370,Columbia Road,,7,-71.07128,42.31091,19647
+38386,-7907871.686000001,5211245.776000001,26329,"Pear, Callery",Pyrus calleryana,1,12-18in,17.0,--,Boston,South Boston,681,East 4th Street,,2,-71.03761999999999,42.33468,26791
+33993,-7911672.132999999,5212258.094,11165,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,South End,352,Shawmut Avenue,,1,-71.07176,42.3414,10665
+17571,-7912828.297,5202527.931,21870,"Maple, Amur",Acer ginnala,1,3-6in,4.0,--,Boston,Mattapan,78,Woodbole Avenue,,1,-71.08215,42.276759999999996,20927
+8305,-7918882.37,5203181.276000001,43455,"Linden,Littleleaf 'Greenspire'",Tilia cordata 'Greenspire',1,0-3in,2.0,Fall 2023,Boston,Roslindale,19,Wellsmere Road,,1,-71.13653000000001,42.28111,43891
+40141,-7911427.23,5212404.635,10677,"Ash, Green",Fraxinus pennsylvanica,1,18-24in,20.0,--,Boston,South End,296,Shawmut Avenue,2-Jan,1,-71.06956,42.34238,11501
+12514,-7911816.847999999,5213613.041,7012,Elm,Ulmus species,1,3-6in,3.0,--,Boston,Back Bay/Beacon Hill,222,Berkeley Street,,2,-71.07306,42.3504,5477
+34640,-7921899.055,5204441.563,14097,"Maple, Red",Acer rubrum,1,12-18in,14.0,--,Boston,West Roxbury,90,Dwinell Street,,2,-71.16363,42.28948,13018
+23334,-7910209.395,5213843.504,514,Ginkgo,Ginkgo biloba,1,6-12in,7.0,--,--,Central Boston,34,West Lincoln Street,,2,-71.05861999999999,42.351929999999996,1508
+32937,-7903589.225,5218567.87,4474,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,--,East Boston,146,Saint Andrew Road,,1,-70.99915,42.38329,4310
+35024,-7913996.484,5203202.879,21963,"Zelkova, Japanese",Zelkova serrata,1,12-18in,14.0,--,Boston,Mattapan,1261,Blue Hill Avenue,,2,-71.09264,42.28125,21012
+1278,-7918093.041,5202838.467,39583,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roslindale,153,Metropolitan Avenue,,1,-71.12944,42.27883,38893
+884,-7920346.147999999,5202511.231000001,39922,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,23,Tennyson Street,,1,-71.14968,42.27665,38212
+22267,-7918177.199,5201054.526000001,34553,"Maple, Hedge",Acer campestre,1,6-12in,6.0,--,Boston,Hyde Park,351,Poplar Street,,1,-71.1302,42.26697,34393
+3025,-7907483.248,5218379.66,45666,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,East Boston,124,Falcon Street,,1,-71.03413,42.38204,42885
+2531,-7918094.154,5200946.82,40940,"Maple, Hedge",Acer campestre,0,,0.0,Fall 2021,Boston,Hyde Park,327,Poplar Street,,1,-71.12945,42.26625,42085
+43905,-7920306.073,5203392.915,29683,"Planetree, London",Platanus x acerifolia,1,>30in,34.0,--,Boston,West Roxbury,109,Stratford Street,,1,-71.14931999999999,42.282509999999995,28616
+9407,-7913576.808999999,5205668.369,38531,"Oak, Black",Quercus velutina,1,0-3in,2.0,Spring 2022,Boston,Dorchester,38,American Legion Highway,,2,-71.08887,42.29763,37934
+42861,-7922107.667,5204419.141,14021,"Planetree, London",Platanus x acerifolia,1,24-30in,25.0,--,Boston,West Roxbury,17,Newfield Street,,1,-71.1655,42.28933,12937
+10586,-7914720.506,5210738.001,23219,"Oak, Willow",Quercus phellos,1,0-3in,2.0,--,Boston,Mission Hill,49,Delle Avenue,,1,-71.09914,42.331309999999995,24065
+23688,-7910597.9,5215367.26,4867,"Linden, Littleleaf",Tilia cordata,1,6-12in,7.0,--,--,Central Boston,7,Bullfinch Place,,4,-71.06211,42.36205,4857
+32942,-7907633.462,5218006.657,5669,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,--,East Boston,173,Brooks Street,,1,-71.03548,42.37956,5981
+30272,-7913731.097999999,5204199.893,18214,"Oak, Pin",Quercus palustris,1,6-12in,11.0,--,Boston,Dorchester,1070,Blue Hill Avenue,,1,-71.09026,42.28788,18977
+40388,-7913280.7,5202024.083000001,21174,"Linden, Littleleaf",Tilia cordata,1,18-24in,20.0,--,Boston,Mattapan,2,Bluefield Terrace,,1,-71.08621,42.27341,21408
+6245,-7908676.007999999,5214160.477,46492,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,Boston,South Boston,10,Fan Pier Blvd,,2,-71.04485,42.35403,43079
+35480,-7913896.296,5210258.41,23124,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,Boston,Roxbury,8,Millmont Street,,1,-71.09174,42.32813,24020
+6936,-7914269.217,5211752.975,27015,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Fenway/Longwood,491,Huntington Avenue,,1,-71.09509,42.33805,27038
+8546,-7914294.152000001,5203133.968,30784,"Maple, Hedge",Acer campestre,1,0-3in,2.0,Fall 2022,Boston,Mattapan,54,Wellington Hill Street,,1,-71.09531,42.28079,31774
+725,-7920578.805,5200962.313999999,39788,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,5011,Washington Street,,1,-71.15177,42.26636,38033
+17008,-7909714.022999999,5212177.068,26909,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,South Boston,129,West Broadway,,1,-71.05417,42.34087,26859
+38992,-7920359.506,5205130.493,14518,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,West Roxbury,172,Church Street,,1,-71.1498,42.294059999999995,14879
+23292,-7916611.935,5203131.711,11371,"Elm, American",Ulmus americana,1,6-12in,7.0,--,Boston,Roslindale,780,American Legion Highway,,2,-71.11613,42.28078,10880
+18973,-7919309.318,5203212.659,33552,"Cherry, Autumnalis",Prunus subhirtella 'Autumnalis',1,3-6in,5.0,--,Boston,Roslindale,16,Havana Street,,1,-71.14036999999999,42.28131,32879
+26311,-7913267.341,5206936.576,22344,Ginkgo,Ginkgo biloba,1,6-12in,9.0,--,Boston,Roxbury,274,Seaver Street,,1,-71.08609,42.306059999999995,21647
+9790,-7909838.701,5204779.852,16970,"Oak, Pin",Quercus palustris,1,0-3in,2.0,--,Boston,Dorchester,40,Daly Street,,3,-71.05529,42.29173,15449
+36590,-7907508.784,5218029.714,9045,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,--,East Boston,138,Trenton Street,,1,-71.03435999999999,42.379709999999996,8817
+31484,-7908060.261,5210885.572,10107,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,Boston,South Boston,528,East Seventh Street,,1,-71.03931,42.33229,7959
+41023,-7917707.876,5207270.739,15384,"Linden, Littleleaf",Tilia cordata,1,18-24in,21.0,--,Boston,Jamaica Plain,34,Slocum Road,,1,-71.12598,42.308279999999996,15923
+15188,-7912176.856000001,5213207.26,6837,"Pear, Callery",Pyrus calleryana,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,142,Dartmouth Street,,3,-71.07629,42.34771,5286
+2181,-7911394.947000001,5218577.063,41720,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,--,Charlestown,107,Baldwin Street,,1,-71.06926999999999,42.38335,41852
+4203,-7910460.42,5202579.987,35172,Apple/Crabapple,Malus species,6,0-3in,2.0,--,Boston,Dorchester,2,Irena Road,,1,-71.06087,42.27711,36173
+25800,-7920701.257,5203907.669,14335,"Pear, Callery",Pyrus calleryana,1,6-12in,8.0,--,Boston,West Roxbury,48,Railroad Street,,4,-71.15287,42.28593,14419
+39026,-7917679.489,5201629.178,20621,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,Hyde Park,51,Windham Road,,1,-71.12572,42.270790000000005,20014
+14584,-7909870.984,5208535.2469999995,35580,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,Dorchester,23,Sudan Street,,1,-71.05558,42.31668,37337
+22008,-7921227.7979999995,5203771.643,13758,"Lilac, Japanese Tree",Syringa reticulata,1,6-12in,6.0,--,Boston,West Roxbury,15,Richwood Street,,1,-71.1576,42.28503,12641
+6193,-7911178.227999999,5214959.145,31061,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,--,Back Bay/Beacon Hill,83,Myrtle Street,,1,-71.06732,42.35934,32438
+18397,-7910299.007,5205035.232,17036,"Oak, Willow",Quercus phellos,1,3-6in,4.0,--,Boston,Dorchester,42,Whitten Street,,1,-71.05943,42.29343,15580
+34894,-7915121.924,5207705.018,34797,"Pear, Callery",Pyrus calleryana,1,12-18in,14.0,--,Boston,Jamaica Plain,3266,Washington Street,,3,-71.10275,42.31116,34041
+12890,-7914341.574,5210796.728,30069,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,Mission Hill,1415,Tremont Street,,1,-71.09574,42.3317,29923
+28028,-7912990.156,5207213.539,22346,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,Boston,Dorchester,482,Blue Hill Avenue,,2,-71.0836,42.3079,21651
+19949,-7920828.717999999,5212443.642,23780,"Hornbeam, European",Carpinus betulus,1,3-6in,5.0,--,Boston,Allston-Brighton,2,Hatherly Road,,1,-71.15401,42.34264,24699
+43372,-7921064.158,5202776.48,34383,"Linden, Littleleaf",Tilia cordata,1,24-30in,28.0,--,Boston,West Roxbury,68,Landseer Street,,2,-71.15613,42.278420000000004,34036
+23542,-7908171.135,5211007.546,25827,Honeylocust,Gleditsia triacanthos,1,6-12in,7.0,--,Boston,South Boston,508,East Sixth Street,,1,-71.04030999999999,42.3331,25836
+22390,-7909834.248,5215386.092,8776,"Maple, Red",Acer rubrum,1,6-12in,6.0,--,--,Central Boston,120,North Street,,2,-71.05525,42.36217,8570
+14695,-7916193.931,5203669.323,11424,"Oak, Northern Red",Quercus rubra,1,3-6in,3.0,--,Boston,Roslindale,672,American Legion Highway,,2,-71.11238,42.28435,10922
+34181,-7914135.632999999,5201545.385,36366,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,Mattapan,1573,Blue Hill Avenue,,3,-71.09389,42.27023,35275
+39942,-7912106.279,5211874.358,11184,"Oak, Northern Red",Quercus rubra,1,18-24in,19.0,--,Boston,South End,464,Shawmut Avenue,,1,-71.07566,42.33886,10684
+34971,-7915065.151000001,5213639.25,6539,"Sweetgum, Common",Liquidambar styraciflua,1,12-18in,14.0,--,--,Fenway/Longwood,195,Back Street,,1,-71.10224000000001,42.350570000000005,5043
+351,-7910197.15,5209992.651000001,24286,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,37,Rawson Street,,1,-71.05851,42.32636,23651
+23677,-7915708.578,5209391.896000001,610,"Linden, Littleleaf",Tilia cordata,1,6-12in,7.0,--,Boston,Jamaica Plain,362,Centre Street,a,1,-71.10802,42.32237,1584
+23209,-7919714.41,5212460.36,36360,Elm,Ulmus species,1,6-12in,7.0,--,Boston,Allston-Brighton,1637,Commonwealth Avenue,,2,-71.14399999999999,42.34275,35269
+25549,-7911035.472999999,5216199.572,42830,"Maple, Red",Acer rubrum,1,6-12in,8.0,--,--,Central Boston,200,Nashua Street,,10,-71.06604,42.36757,40962
+25531,-7911658.775,5211851.919,27741,"Maple, Red",Acer rubrum,1,6-12in,8.0,--,Boston,South End,1,Saint George Street,,3,-71.07164,42.33871,29108
+30646,-7907440.323,5216449.78,5100,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,12.0,--,--,East Boston,122,Cottage Street,,4,-71.03374000000001,42.36923,5689
+10894,-7910120.339,5203319.338,17767,Rose-of-Sharon,Hibiscus syriacus,5,0-3in,2.0,--,Boston,Dorchester,461,Gallivan Boulevard,,1,-71.05781999999999,42.28202,18504
+12883,-7914520.799,5213136.016,29344,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,Fenway/Longwood,49,Lansdowne Street,,5,-71.09735,42.347229999999996,28308
+33994,-7912146.353999999,5211838.817,11183,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,South End,472,Shawmut Avenue,,1,-71.07602,42.33862,10683
+35818,-7919343.159,5205205.138,15258,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,West Roxbury,25,Morey Road,,2,-71.14067,42.29456,15775
+18679,-7913728.204,5204693.021000001,18268,"Sweetgum, Common",Liquidambar styraciflua,1,3-6in,4.0,--,Boston,Dorchester,21,Donald Road,,1,-71.09023,42.29115,18897
+34097,-7908379.302,5211126.509,25800,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,Boston,South Boston,436,East 5th Street,,1,-71.04218,42.333890000000004,25799
+11470,-7910334.741,5209274.008,32330,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,--,Boston,Dorchester,25,Mayhew Street,,1,-71.05975,42.32159,31821
+25317,-7916406.551,5209232.605,32118,"Maple, Hedge",Acer campestre,1,6-12in,8.0,--,Boston,Jamaica Plain,89,Perkins Street,,2,-71.11429,42.32131,30489
+10783,-7910527.768999999,5204405.147,40355,"Pear, Callery 'Chanticleer'",Pyrus calleryana 'Chanticleer',1,0-3in,2.0,Spring 2022,Boston,Dorchester,28,Edwin Street,,1,-71.06148,42.28924,40108
+7220,-7910452.071,5216947.916999999,39065,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,0-3in,2.0,Spring 2021,--,Charlestown,25,Park Street,,2,-71.0608,42.37254,39385
+31142,-7912696.272000001,5208207.512,22539,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,Roxbury,31,Holborn Street,,1,-71.08096,42.3145,22346
+27668,-7911886.4229999995,5213411.805,7026,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,10.0,--,--,Back Bay/Beacon Hill,390,Stuart Street,,2,-71.07368000000001,42.349059999999994,6777
+21350,-7909622.185,5212624.676,25049,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,6.0,--,Boston,South Boston,141,A Street,,5,-71.05334,42.34384,25033
+24233,-7912833.195,5210759.0819999995,24775,"Pear, Callery",Pyrus calleryana,1,6-12in,7.0,--,Boston,Roxbury,2164,Washington Street,,2,-71.08219,42.33145,22737
+24179,-7910083.603999999,5218099.336,2508,"Pear, Callery",Pyrus calleryana,1,6-12in,7.0,--,--,Charlestown,54,Old Ironsides Way,,1,-71.05749,42.380179999999996,3039
+20679,-7906551.882,5211425.5819999995,25438,"Oak, Pin",Quercus palustris,1,3-6in,5.0,--,Boston,South Boston,950,East Broadway,,1,-71.02575999999999,42.335879999999996,25341
+20647,-7918126.437000001,5213946.687,9638,"Oak, Pin",Quercus palustris,1,3-6in,5.0,--,Boston,Allston-Brighton,100,Brighton Avenue,,4,-71.12974,42.35262,7556
+28407,-7912871.6,5213822.114,7387,"Maple, Norway",Acer platanoides,1,6-12in,10.0,--,--,Back Bay/Beacon Hill,258,Marlborough Street,,1,-71.08253,42.35179,7321
+12187,-7917186.901000001,5198355.782,30781,Apple/Crabapple,Malus species,1,3-6in,3.0,--,Boston,Hyde Park,126,Dana Avenue,,1,-71.1213,42.24903,31682
+23713,-7911857.48,5210831.362,27070,"Linden, Littleleaf",Tilia cordata,1,6-12in,7.0,--,Boston,Roxbury,11,Melnea Cass Boulevard,,1,-71.07343,42.33193,27469
+16079,-7914346.027000001,5211822.552,37581,Elm,Ulmus species,1,3-6in,4.0,--,Boston,Fenway/Longwood,20,Museum Road,,2,-71.09578,42.33851,39485
+4543,-7919728.325,5204060.551,12032,"Cherry, Yoshino",Prunus x yedoensis,1,0-3in,2.0,Spring 2023,Boston,Roslindale,150,Tyndale Street,,1,-71.14413,42.28695,11075
+3431,-7911498.475,5213015.069,28615,Ginkgo,Ginkgo biloba,1,0-3in,1.0,--,Boston,South End,9,Appleton Street,,4,-71.0702,42.34643,28661
+12678,-7919803.5770000005,5203936.41,11763,"Elm, American",Ulmus americana,1,0-3in,3.0,--,Boston,Roslindale,317,Belgrade Avenue,,1,-71.14480999999999,42.28613,11712
+4241,-7916282.065,5204562.698,43100,Apple/Crabapple,Malus species,1,0-3in,2.0,Spring 2023,Boston,Jamaica Plain,6,Wayburn Road,,1,-71.11317,42.29029,43388
+7374,-7916203.949,5205726.463,16231,"Hophornbeam, Eastern",Ostrya virginiana,1,0-3in,2.0,--,Boston,Jamaica Plain,48,Weld Hill Street,,1,-71.11247,42.29802,16821
+12887,-7911054.31,5212036.857,30052,Ginkgo,Ginkgo biloba,1,3-6in,3.0,--,Boston,South End,106,Union Park Street,,2,-71.06621,42.339940000000006,29554
+39923,-7921854.527000001,5204156.254,13793,"Maple, Red",Acer rubrum,1,18-24in,19.0,--,Boston,West Roxbury,194,Mount Vernon Street,,3,-71.16323,42.28759,12758
+20174,-7917088.938999999,5201698.078,32411,"Maackia, Amur",Maackia amurensis,1,3-6in,5.0,--,Boston,Roslindale,851,Hyde Park Avenue,,2,-71.12042,42.27125,31953
+35365,-7907698.472,5217933.117,5865,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,East Boston,90,Trenton Street,,1,-71.03605999999999,42.37907,6447
+29477,-7907300.171,5216612.508,4355,Honeylocust,Gleditsia triacanthos,1,6-12in,11.0,--,--,East Boston,182,Cottage Street,,1,-71.03249,42.370309999999996,4240
+21994,-7903499.056,5218522.357,5701,Katsura Tree,Cercidiphyllum japonicum,1,6-12in,6.0,--,--,East Boston,156,Saint Andrew Road,,2,-70.99834,42.382979999999996,5892
+19668,-7910943.658,5205276.472,17769,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Dorchester,69,Melville Avenue,,1,-71.06522,42.29503,18510
+24455,-7904699.08,5218975.3889999995,5786,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,8.0,--,--,East Boston,948,Bennington Street,,3,-71.00912,42.38599,6217
+13681,-7914777.39,5212793.664,37760,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Fenway/Longwood,433,Van Ness Street,,4,-71.09966,42.34496,39719
+6132,-7920362.4,5202651.904,27209,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,Boston,West Roxbury,108,Woodard Road,,1,-71.14983000000001,42.277590000000004,26343
+9377,-7910815.418,5217617.563999999,3825,"Maple, Silver",Acer saccharinum,1,0-3in,2.0,--,--,Charlestown,3,Elm Street,,1,-71.06406,42.376979999999996,2717
+11069,-7913168.824,5208411.799,38413,"Serviceberry, Cumulus",Amelanchier laevis 'Cumulus',1,0-3in,2.0,Fall 2021,Boston,Roxbury,36,Deckard Street,,1,-71.08521,42.31586,37791
+34163,-7911989.95,5214143.867,31032,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,--,Back Bay/Beacon Hill,62,Marlborough Street,,4,-71.07462,42.35392,32485
+2705,-7912086.7979999995,5202343.179,21729,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Mattapan,19,Clearwater Drive,,2,-71.07549,42.27554,20672
+3104,-7913453.632,5209008.319,45849,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Roxbury,156,Walnut Ave,,2,-71.08776,42.31982,43155
+35295,-7911835.772999999,5214379.766,1440,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,Back Bay/Beacon Hill,100,Beacon Street,,1,-71.07323000000001,42.35549,381
+29060,-7909045.437999999,5211971.345,26580,"Zelkova, Japanese",Zelkova serrata,1,6-12in,10.0,--,Boston,South Boston,289,West 2nd Street,,1,-71.04816,42.3395,26134
+26391,-7913645.828,5213642.263,4263,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,--,Back Bay/Beacon Hill,25,Massachusetts Avenue,,1,-71.08949,42.350590000000004,4157
+35691,-7912043.495,5212817.159,28703,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,South End,133,Appleton Street,,1,-71.0751,42.34512,28842
+5881,-7911648.756,5204475.422,17127,"Elm, prospector",Ulmus wilsoniana,1,0-3in,2.0,--,Boston,Dorchester,4,Epping Street,,1,-71.07155,42.28971,16597
+26075,-7907497.207,5217353.858,3701,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,9.0,--,--,East Boston,218,Marion St,,1,-71.03426,42.37523,2667
+8570,-7920481.957,5200794.289,37807,"Maple, Hedge",Acer campestre,1,0-3in,2.0,Spring 2021,Boston,West Roxbury,35,Woodley Avenue,,1,-71.1509,42.265240000000006,39646
+24177,-7909791.947000001,5203366.884,1841,"Pear, Callery",Pyrus calleryana,1,6-12in,7.0,--,Boston,Dorchester,525,Gallivan Boulevard,-527,1,-71.05487,42.282340000000005,2300
+17963,-7919241.302,5202661.683,33568,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,Roslindale,19,Brahms Street,,1,-71.13976,42.27765,32927
+31569,-7922333.201,5213716.975,24195,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,Boston,Allston-Brighton,615,Washington Street,,9,-71.16753,42.35109,23796
+1276,-7917976.156,5203090.936000001,39579,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roslindale,40,Whitford Street,,1,-71.12839,42.28051,38889
+35675,-7922599.254,5214271.306,24099,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,Boston,Allston-Brighton,24,Bellamy Street,,1,-71.16991999999999,42.35477,23662
+33509,-7913850.655,5210573.868,23197,"Planetree, London",Platanus x acerifolia,1,12-18in,13.0,--,Boston,Roxbury,205,Roxbury Street,,2,-71.09133,42.330220000000004,24043
+28416,-7912513.708,5213951.356000001,7677,"Maple, Norway",Acer platanoides,1,6-12in,10.0,--,--,Back Bay/Beacon Hill,166,Marlborough Street,,1,-71.07932,42.35265,9067
+38807,-7912559.348999999,5212791.856000001,6283,"Linden, Littleleaf",Tilia cordata,1,18-24in,18.0,--,--,Back Bay/Beacon Hill,17,Follen Street,,1,-71.07973,42.34495,6374
+24358,-7911245.779,5208018.585,19842,"Zelkova, Japanese",Zelkova serrata,1,6-12in,7.0,--,Boston,Dorchester,461,Columbia Road,,1,-71.06793,42.31325,17862
+21822,-7920336.129,5213419.788,23614,Honeylocust,Gleditsia triacanthos,1,6-12in,6.0,--,Boston,Allston-Brighton,736,Cambridge Street,,15,-71.14959,42.34912,24482
+24379,-7913596.847,5209643.787,30662,"Zelkova, Japanese",Zelkova serrata,1,6-12in,7.0,--,Boston,Roxbury,2671,Washington Street,,1,-71.08905,42.324040000000004,30721
+625,-7918155.937000001,5207607.925,38411,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,14,Neillian Crescent,,1,-71.13,42.310520000000004,37789
+42127,-7912248.767999999,5211840.323,33061,"Linden, Silver",Tilia tomentosa,1,18-24in,23.0,--,Boston,South End,39,Worcester Street,,1,-71.07694000000001,42.33863,32550
+36904,-7916651.009,5209051.636,35023,"Linden, Littleleaf",Tilia cordata,1,12-18in,16.0,--,Boston,Jamaica Plain,332,Jamaicaway,,2,-71.11649,42.32011,34265
+30324,-7914297.602999999,5201475.432,21393,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,11.0,--,Boston,Mattapan,50,Rexford Street,,1,-71.09534000000001,42.26977,21974
+16914,-7912635.492000001,5202480.238,21933,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Mattapan,134,Standard Street,,1,-71.08041,42.27645,20892
+15168,-7918786.116,5215438.821,37246,"Pagoda Tree, Japanese",Sophora japonica,1,0-3in,3.0,--,Boston,Allston-Brighton,304,Western Avenue,,1,-71.13566999999999,42.36252,36436
+28963,-7913223.927,5210416.966,24339,"Planetree, London",Platanus x acerifolia,1,6-12in,10.0,--,Boston,Roxbury,1,Malcolm X Boulevard,,3,-71.0857,42.32918,23818
+32141,-7913670.762999999,5204365.268999999,2165,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,13.0,--,Boston,Dorchester,1026,Blue Hill Avenue,,2,-71.08971,42.28897,1199
+23791,-7912502.131,5213427.319,41733,"Maple, Freeman",Acer x freemanii,1,6-12in,7.0,--,--,Back Bay/Beacon Hill,58,Exeter Street,,7,-71.07921999999999,42.34917,41916
+13340,-7915154.207,5209466.424,16113,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,Jamaica Plain,24,Estrella Street,,3,-71.10304000000001,42.32286,16638
+11638,-7914238.047,5213533.209,2620,"Zelkova, Japanese",Zelkova serrata,1,0-3in,2.0,--,--,Fenway/Longwood,30,Bay State Road,,2,-71.09481,42.34987,3193
+12472,-7913062.512999999,5206036.953,19156,"Coffeetree, Kentucky",Gymnocladus dioicus,1,3-6in,3.0,--,Boston,Dorchester,44,McLellan Street,,1,-71.08425,42.30008,18313
+2055,-7915783.1620000005,5211443.502,41520,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Fenway/Longwood,18,Binney Street,,2,-71.10869,42.33599,41286
+5382,-7908730.404,5211676.171,10357,Elm,Ulmus species,1,0-3in,2.0,--,Boston,South Boston,393,West 2nd Street,,1,-71.04533,42.337540000000004,10271
+17287,-7922130.598999999,5200961.863,12635,"Lilac, Japanese Tree",Syringa reticulata,1,3-6in,4.0,--,Boston,West Roxbury,3,Salman Street,,3,-71.16571,42.26635,13118
+40371,-7916498.946,5209028.149,16433,"Linden, Littleleaf",Tilia cordata,1,18-24in,20.0,--,Boston,Jamaica Plain,71,Moraine Street,,1,-71.11511999999999,42.31995,17208
+41246,-7920674.095,5202935.963,13172,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,18-24in,21.0,--,Boston,West Roxbury,10,Linnet Street,,1,-71.15263,42.27948,14301
+21964,-7908654.122,5214229.211,46489,Honeylocust,Gleditsia triacanthos,1,6-12in,6.0,--,Boston,South Boston,26,Fan Pier Blvd,,4,-71.04465,42.354490000000006,43105
+11979,-7910676.538,5207692.797,44527,"Zelkova, Japanese Green Vase",Zelkova serrata 'Green Vase',1,0-3in,2.0,Spring 2024,Boston,Dorchester,147,Hancock Street,,2,-71.06281,42.31108,43620
+13307,-7910794.935,5212795.17,10725,Honeylocust,Gleditsia triacanthos,1,3-6in,3.0,--,Boston,South End,341,Harrison Avenue,,2,-71.06388000000001,42.34497,11602
+37063,-7907785.97,5211000.016,25913,"Maple, Norway",Acer platanoides,1,12-18in,16.0,--,Boston,South Boston,589,East Sixth Street,,1,-71.03685,42.33305,25878
+28792,-7913302.964,5209645.594,2219,"Pear, Callery",Pyrus calleryana,1,6-12in,10.0,--,Boston,Roxbury,62,Regent Street,B,1,-71.08641,42.32405,1180
+43982,-7909351.122,5204744.638,17469,"Oak, Pin",Quercus palustris,1,>30in,36.0,--,Boston,Dorchester,23,Boutwell Street,,1,-71.05091,42.2915,17338
+39570,-7911323.703,5213140.083000001,28993,Honeylocust,Gleditsia triacanthos,1,18-24in,19.0,--,Boston,South End,400,Tremont Street,,3,-71.06863,42.34726,29519
+21593,-7911200.137999999,5203767.73,35047,Ginkgo,Ginkgo biloba,1,6-12in,6.0,--,Boston,Dorchester,101,Ashmont Street,,2,-71.06752,42.285,34491
+5940,-7909688.42,5217925.733,37902,"Elm, Valley Forge",Ulmus americana 'Valley Forge',1,0-3in,2.0,Spring 2021,--,Charlestown,41,Medford Street,,4,-71.05394,42.379020000000004,39770
+14655,-7913985.909,5203248.018,21956,"Oak, English",Quercus robur,1,3-6in,3.0,--,Boston,Mattapan,1261,Blue Hill Avenue,,4,-71.09254,42.28155,21005
+1331,-7919899.757,5203417.591,39553,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roslindale,674,West Roxbury Parkway,,1,-71.14567,42.28268,38959
+6194,-7910249.47,5214047.31,33251,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,--,Central Boston,106,Bedford Street,,3,-71.05898,42.35328,32694
+11915,-7913889.061000001,5209229.291999999,22767,"Zelkova, Japanese Green Vase",Zelkova serrata 'Green Vase',1,0-3in,2.0,Fall 2023,Boston,Roxbury,129,Martin Luther King Jr Boulevard,,1,-71.09167,42.321290000000005,23254
+17394,-7912156.373,5212840.655,6688,"Linden, Littleleaf",Tilia cordata,1,3-6in,4.0,--,--,South End,375,Columbus Avenue,,3,-71.07611,42.34527,5116
+24742,-7908101.004,5211258.425,32933,Ginkgo,Ginkgo biloba,1,6-12in,8.0,--,Boston,South Boston,102,I Street,,1,-71.03968,42.33477,33335
+24994,-7912600.538,5211168.674,27317,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,Boston,Roxbury,5,Thorndike Street,,1,-71.0801,42.33417,26724
+42973,-7917159.739,5201109.282,32388,"Linden, Littleleaf",Tilia cordata,1,24-30in,26.0,--,Boston,Hyde Park,949,Hyde Park Avenue,,2,-71.12106,42.26733,31770
+43730,-7917526.425,5213903.0030000005,37411,"Elm, American",Ulmus americana,1,>30in,32.0,--,Boston,Allston-Brighton,1079,Commonwealth Avenue,,1,-71.12435,42.35233,37052
+35832,-7912027.242000001,5212540.183,16373,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,South End,84,Montgomery Street,,1,-71.07495,42.34328,17263
+3416,-7919395.478999999,5205051.183999999,15224,Ginkgo,Ginkgo biloba,1,0-3in,1.0,--,Boston,West Roxbury,197,Weld Street,,1,-71.14114000000001,42.29353,15745
+9766,-7916277.42,5203569.713,11420,"Oak, Pin",Quercus palustris,1,0-3in,2.0,Spring 2024,Boston,Roslindale,675,American Legion Highway,,14,-71.11313,42.28369,10918
+17930,-7917209.164,5197287.055,29949,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,Hyde Park,130,Faraday Street,,2,-71.1215,42.24192,29843
+38251,-7922802.969,5214136.938,36947,"Maple, Red",Acer rubrum,1,12-18in,17.0,--,Boston,Allston-Brighton,73,Hunnewell Avenue,,1,-71.17175,42.35388,36725
+8677,-7921984.771000001,5203643.141,39441,"Maple, purple blow",Acer truncatum,1,0-3in,2.0,Spring 2021,Boston,West Roxbury,122,Dent Street,,1,-71.1644,42.28418,38791
+22324,-7916949.79,5215661.795,25823,"Maple, Norway",Acer platanoides,1,6-12in,6.0,--,Boston,Allston-Brighton,130,Western Avenue,,7,-71.11917,42.364,25765
+41620,-7912921.137999999,5207570.291999999,22614,"Linden, Littleleaf",Tilia cordata,1,18-24in,22.0,--,Boston,Roxbury,630,Warren Street,,1,-71.08298,42.31027,23103
+41971,-7917691.177999999,5200661.165,20851,Honeylocust,Gleditsia triacanthos,1,18-24in,23.0,--,Boston,Hyde Park,6,Magee Street,,1,-71.12583000000001,42.26435,20309
+32765,-7918556.7979999995,5204778.046,33789,"Hornbeam, American",Carpinus caroliniana,1,12-18in,13.0,--,Boston,Roslindale,35,Knoll Street,,1,-71.13361,42.29172,34569
+43438,-7922186.704,5214281.248,24160,"Basswood, American",Tilia americana,1,24-30in,29.0,--,Boston,Allston-Brighton,22,Hardwick Street,,1,-71.16620999999999,42.35484,22505
+8960,-7918784.335,5214089.036,26225,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,Boston,Allston-Brighton,223,Craftsman Street,,1,-71.13565,42.353559999999995,26471
+22907,-7912513.708,5208031.682,2196,"Plum, Cherry",Prunus cerasifera,2,6-12in,6.0,--,Boston,Dorchester,322,Blue Hill Avenue,A,2,-71.07932,42.313340000000004,1170
+23001,-7916218.421,5209001.953,16525,"Zelkova, Japanese",Zelkova serrata,1,6-12in,6.0,--,Boston,Jamaica Plain,13,Moraine Street,,1,-71.1126,42.31978,17364
+9562,-7912167.505,5204729.74,30700,"Oak, Hybrid English",Quercus robur x bicolor,1,0-3in,2.0,Spring 2024,Boston,Dorchester,247,Talbot Avenue,,3,-71.07621,42.2914,30812
+35901,-7907777.063999999,5211524.521000001,26265,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,South Boston,576,East 3rd Street,,1,-71.03676999999999,42.336529999999996,26654
+24115,-7911177.207,5203788.194,35046,"Oak, Shumard",Quercus shumardii,1,6-12in,7.0,--,Boston,Dorchester,101,Ashmont Street,,1,-71.06730999999999,42.285140000000006,34490
+3673,-7917295.994,5200192.613,30528,"Maple, Amur",Acer ginnala,1,0-3in,1.0,--,Boston,Hyde Park,1120,Hyde Park Avenue,,1,-71.12228,42.26124,31335
+31423,-7920517.022999999,5204578.803,38395,"Maple, Freeman",Acer x freemanii,1,12-18in,12.0,--,Boston,West Roxbury,68,Greaton Road,,3,-71.15120999999999,42.29039,37853
+6703,-7912386.091,5213680.941000001,7389,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Back Bay/Beacon Hill,149,Newbury Street,,2,-71.07817,42.35085,7357
+430,-7911500.933999999,5213138.425,28562,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South End,1,Chandler Street,,1,-71.07021999999999,42.34725,28573
+18358,-7915060.698,5212572.263,29133,"Oak, Swamp White",Quercus bicolor,1,3-6in,4.0,--,Boston,Fenway/Longwood,1395,Boylston Street,,4,-71.1022,42.34349,29900
+12036,-7915259.035,5200409.392,38853,"Zelkova, Musashino",Zelkova serrata 'Musashino',1,0-3in,2.0,Spring 2023,Boston,Hyde Park,12,Coronado Road,,2,-71.10398,42.262679999999996,39230
+24582,-7909145.204,5203633.951,42578,Crabapple spp.,Malus spp.,1,6-12in,8.0,--,Boston,Dorchester,17,Stock Street,,1,-71.04906,42.28411,40664
+12461,-7915673.401000001,5210199.235,9615,"Coffeetree, Kentucky",Gymnocladus dioicus,1,3-6in,3.0,--,Boston,Mission Hill,105,Lawn Street,,1,-71.1077,42.327729999999995,7589
+9134,-7914646.59,5208910.116,41053,"Maple, Red",Acer rubrum,1,0-3in,2.0,Spring 2022,Boston,Jamaica Plain,1853,Columbus Avenue,,1,-71.09848000000001,42.31917,42362
+40945,-7918440.357999999,5213244.614,36547,Honeylocust,Gleditsia triacanthos,1,18-24in,21.0,--,Boston,Allston-Brighton,32,Brainerd Road,,1,-71.13256,42.34795,35462
+25526,-7918030.257,5213947.892,26271,"Maple, Red",Acer rubrum,1,6-12in,8.0,--,Boston,Allston-Brighton,67,Brighton Avenue,,3,-71.12888000000001,42.35262,26671
+11504,-7916559.315,5202920.567,44872,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,Spring 2024,Boston,Roslindale,10,Gilman Street,,4,-71.11565999999999,42.27937,44093
+20376,-7910971.932999999,5217061.078,4062,"Maple, Red",Acer rubrum,1,3-6in,5.0,--,--,Charlestown,50,Washington Street,,1,-71.06546999999999,42.373290000000004,3922
+30741,-7913454.357999999,5212854.512,27953,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,12.0,--,Boston,Fenway/Longwood,41,Edgerly Road,,1,-71.08776999999999,42.34536,29476
+7682,-7916289.109,5209461.756,16638,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,--,Boston,Jamaica Plain,30,Zamora Street,,2,-71.11324,42.322829999999996,15063
+30308,-7911652.095,5212210.804,2360,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,11.0,--,Boston,South End,7,West Dedham Street,b,1,-71.07158000000001,42.34109,1376
+30026,-7911524.635,5212615.94,17861,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,South End,28,Hanson Street,,1,-71.07043,42.343779999999995,18736
+30253,-7910857.831,5218071.155,1114,"Oak, Pin",Quercus palustris,1,6-12in,11.0,--,--,Charlestown,261,Bunker Hill Street,,1,-71.06445,42.37999,63
+16432,-7914046.578,5211830.683999999,18924,Ginkgo,Ginkgo biloba,1,3-6in,4.0,--,Boston,Fenway/Longwood,452,Huntington Avenue,,2,-71.09309,42.338570000000004,19467
+15551,-7907114.156,5215790.912,2589,"Zelkova, Japanese",Zelkova serrata,1,3-6in,3.0,--,--,East Boston,489,Sumner Street,,1,-71.03081999999999,42.36486,3126
+30889,-7916626.964,5203014.051,11390,"Elm, American",Ulmus americana,1,12-18in,12.0,--,Boston,Roslindale,814,American Legion Highway,,2,-71.11627,42.279990000000005,10899
+23460,-7911392.052999999,5215108.8889999995,8153,Honeylocust,Gleditsia triacanthos,1,6-12in,7.0,--,--,Back Bay/Beacon Hill,71,Phillips Street,,1,-71.06924000000001,42.36033,9659
+43467,-7918770.977000001,5205396.267,15430,"Linden, Littleleaf",Tilia cordata,1,24-30in,29.0,--,Boston,West Roxbury,14,Buchanan Road,,1,-71.13553,42.29583,15943
+25631,-7910813.86,5217351.447,7688,"Oak, Pin",Quercus palustris,1,6-12in,8.0,--,--,Charlestown,153,Main Street,,1,-71.06405,42.375209999999996,9154
+24404,-7907845.414,5216106.2530000005,5283,Apple/Crabapple,Malus species,1,6-12in,8.0,--,--,East Boston,90,Webster Street,,1,-71.03738,42.36695,6079
+30182,-7912069.544,5210396.789,21142,"Maple, Red",Acer rubrum,1,6-12in,11.0,--,Boston,Roxbury,121,Hampden Street,,2,-71.07533000000001,42.32904,21077
+233,-7915106.896000001,5208018.886,15725,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,44,Marmion Street,,2,-71.10262,42.31325,16262
+39434,-7906695.484,5217997.313999999,9071,"Basswood, American",Tilia americana,1,18-24in,19.0,--,--,East Boston,387,Chelsea Street,,1,-71.02705,42.3795,8836
+2081,-7917574.292,5213826.933999999,41462,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Allston-Brighton,1106,Commonwealth Avenue,,3,-71.12478,42.351820000000004,41354
+1675,-7910676.937000001,5205515.762,40455,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,31,Bourneside Street,,2,-71.06282,42.296620000000004,40154
+3263,-7910851.708,5208110.414,20175,Apple/Crabapple,Malus species,1,0-3in,1.0,--,Boston,Dorchester,23,Rowell Street,,1,-71.06439,42.31386,21413
+17841,-7921663.057,5200296.399,12535,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,West Roxbury,119,Stimson Street,,1,-71.16150999999999,42.26193,12393
+24823,-7910198.262999999,5215576.522,4704,Honeylocust,Gleditsia triacanthos,1,6-12in,8.0,--,--,Central Boston,830,Haymarket Square,,7,-71.05852,42.36343,4700
+2593,-7910786.341,5213424.473,7824,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,--,Central Boston,800,Washington Street,,1,-71.0638,42.34915,9328
+22021,-7911499.142000001,5203617.261,16704,"Lilac, Japanese Tree",Syringa reticulata,1,6-12in,6.0,--,Boston,Dorchester,69,Burt Street,,1,-71.07021,42.284,15180
+29214,-7911246.892999999,5205323.126,32183,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,11.0,--,Boston,Dorchester,38,Tremlett Street,,1,-71.06794000000001,42.29534,31422
+9267,-7914979.435,5201799.624,40993,"Maple, Red 'October Glory'",Acer rubrum 'October Glory',1,0-3in,2.0,Spring 2022,Boston,Mattapan,15,Corman Road,,1,-71.10146999999999,42.27192,42158
+2608,-7917379.482999999,5204980.603999999,11890,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Roslindale,569,South Street,,1,-71.12303,42.29306,12062
+5610,-7914490.742000001,5212530.092,41583,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,0-3in,2.0,Fall 2021,Boston,Fenway/Longwood,108,Jersey Street,,1,-71.09708,42.34321,41698
+6354,-7921830.0370000005,5213475.518999999,41284,Goldenrain Tree,Koelreuteria paniculata,1,0-3in,2.0,Fall 2021,Boston,Allston-Brighton,11,Fairbanks Street,,1,-71.16301,42.34949,42473
+34466,-7910296.223999999,5203337.694,17428,"Maple, Norway",Acer platanoides,1,12-18in,14.0,--,Boston,Dorchester,31,Verdun Street,,1,-71.0594,42.28215,17201
+26697,-7917324.491,5200180.279,19900,"Linden, Littleleaf",Tilia cordata,1,6-12in,9.0,--,Boston,Hyde Park,1121,Hyde Park Avenue,,1,-71.12254,42.26116,17759
+24114,-7912250.994,5212737.183,6502,"Oak, Shingle",Quercus imbricaria,1,6-12in,7.0,--,--,South End,405,Columbus Avenue,,5,-71.07696,42.344590000000004,6989
+43569,-7912427.436000001,5214138.143,7948,"Linden, Littleleaf",Tilia cordata,1,>30in,30.0,--,--,Back Bay/Beacon Hill,222,Beacon Street,,1,-71.07854,42.35389,9721
+40649,-7914187.953,5202882.401000001,21396,"Maple, Red",Acer rubrum,1,18-24in,20.0,--,Boston,Mattapan,25,Hazleton Street,,2,-71.09436,42.27912,21981
+28494,-7909328.301,5211495.4569999995,26741,"Maple, Norway",Acer platanoides,1,6-12in,10.0,--,Boston,South Boston,207,West Fifth Street,,1,-71.0507,42.33634,26329
+26225,-7911347.08,5204033.466,16794,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,9.0,--,Boston,Dorchester,25,Harley Street,,2,-71.06884000000001,42.286770000000004,15230
+1175,-7910468.768999999,5205815.259,39395,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,0,Dorchester Avenue,,1,-71.06095,42.29861,38713
+40268,-7913052.495,5208963.863,22901,Honeylocust,Gleditsia triacanthos,1,18-24in,20.0,--,Boston,Roxbury,40,North Charlame Terrace,,1,-71.08416,42.31953,23263
+39846,-7913036.91,5201777.209,21317,"Maple, Norway",Acer platanoides,1,18-24in,19.0,--,Boston,Mattapan,15,Newcroft Circle,,1,-71.08402,42.271770000000004,21656
+11478,-7920426.2979999995,5202453.307,39899,Tulip Tree,Liriodendron tulipifera,1,0-3in,2.0,Spring 2022,Boston,West Roxbury,12,Tennyson Street,,1,-71.1504,42.276270000000004,38157
+33368,-7912244.76,5213382.584,6847,"Pear, Callery",Pyrus calleryana,1,12-18in,13.0,--,--,Back Bay/Beacon Hill,200,Dartmouth Street,,7,-71.0769,42.34887,5294
+39269,-7922466.784,5213647.384,24081,"Pear, Callery",Pyrus calleryana,1,18-24in,18.0,--,Boston,Allston-Brighton,25,Tremont Street,,4,-71.16873000000001,42.350629999999995,24973
+37803,-7909874.323,5208143.081,35547,Honeylocust,Gleditsia triacanthos,1,12-18in,17.0,--,Boston,Dorchester,28,Auckland Street,,1,-71.05561,42.31408,37125
+39080,-7919533.515,5198573.241,30579,"Maple, Norway",Acer platanoides,1,18-24in,18.0,--,Boston,Hyde Park,6,Senders Court,,1,-71.14238,42.25047,30690
+31669,-7919543.534,5199081.568,35903,"Maple, Norway 'Crimson King'",Acer platanoides 'Crimson King',1,12-18in,12.0,--,Boston,Hyde Park,33,Alwin Street,,1,-71.14246999999999,42.25385,35893
+17995,-7920683.446,5213637.593,37031,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,Boston,Allston-Brighton,375,Market Street,,2,-71.15271,42.350559999999994,37096
+30902,-7919352.065,5203165.565,11594,"Elm, Siberian",Ulmus pumila,1,12-18in,12.0,--,Boston,Roslindale,236,Beech Street,,1,-71.14075,42.281000000000006,11152
+14067,-7919299.0770000005,5204473.766,33911,"Linden,Littleleaf 'Greenspire'",Tilia cordata 'Greenspire',1,3-6in,3.0,--,Boston,Roslindale,66,Bradfield Avenue,,1,-71.14027,42.2897,34800
+15769,-7920289.375,5214440.323,29467,Apple/Crabapple,Malus species,1,3-6in,4.0,--,Boston,Allston-Brighton,214,North Beacon Street,,1,-71.14917,42.35589,28467
+2761,-7909430.158,5210501.59,25597,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,South Boston,1196,Columbia Road,,2,-71.05162,42.32974,25485
+2004,-7907116.938999999,5211263.545,41419,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,South Boston,821,East 4th Street,,1,-71.03084,42.3348,41159
+31951,-7913636.922,5212881.472,28152,"Pear, Callery",Pyrus calleryana,1,12-18in,12.0,--,Boston,Fenway/Longwood,39,Hemenway Street,,1,-71.08941,42.34554,27578
+21362,-7919446.017999999,5214574.846,26181,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,6.0,--,Boston,Allston-Brighton,178,Guest Street,,7,-71.14159000000001,42.35678,26284
+30029,-7917555.368,5201298.673,20667,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,Hyde Park,90,Sherrin Street,,1,-71.12461,42.26859,20083
+19883,-7920302.065,5213437.712,36757,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Allston-Brighton,736,Cambridge Street,,12,-71.14928,42.34924,36411
+17812,-7910857.274,5214855.196,8134,"Maple, Red",Acer rubrum,1,3-6in,4.0,--,--,Back Bay/Beacon Hill,73,Hancock Street,,1,-71.06444,42.35865,9204
+31509,-7921852.967999999,5203338.296,10946,"Maple, Norway",Acer platanoides,1,12-18in,12.0,--,Boston,West Roxbury,61,Perham Street,,1,-71.16322,42.28215,12067
+1444,-7919309.318,5213259.073,38987,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Allston-Brighton,3671,Commonwealth Avenue,a,1,-71.14036999999999,42.34805,39220
+25811,-7909589.902000001,5208391.777,19103,"Pear, Callery",Pyrus calleryana,1,6-12in,8.0,--,Boston,Dorchester,78,Romsey Street,,1,-71.05305,42.31573,18170
+16609,-7912132.996,5204984.517,1492,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Dorchester,81,Wheatland Avenue,,1,-71.0759,42.29309,490
+3445,-7915072.943,5207727.9,34831,Ginkgo,Ginkgo biloba,2,0-3in,1.0,--,Boston,Jamaica Plain,4,Peter Parley Road,,1,-71.10231,42.31132,33824
+35889,-7907173.712,5210889.186000001,25228,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,South Boston,721,East Seventh Street,,1,-71.03135,42.33231,25154
+27096,-7913191.643999999,5210967.791,9792,"Oak, Pin",Quercus palustris,1,6-12in,9.0,--,Boston,Roxbury,50,Ruggles Street,,2,-71.08541,42.332840000000004,7778
+7070,-7910808.294,5204486.407,35111,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,Dorchester,155,Welles Avenue,,1,-71.064,42.28978,36081
+22457,-7913090.342999999,5211342.304,30729,"Maple, Red",Acer rubrum,1,6-12in,6.0,--,Boston,Roxbury,77,Windsor Street,,1,-71.0845,42.33532,31650
+25928,-7921965.846,5204511.086,14004,"Redbud, Eastern",Cercis canadensis,1,6-12in,8.0,--,Boston,West Roxbury,56,Addington Road,,1,-71.16423,42.28994,12980
+11730,-7911966.016,5207933.531,20874,"Zelkova, Japanese",Zelkova serrata,1,0-3in,2.0,--,Boston,Dorchester,208,Quincy Street,,1,-71.0744,42.31268,20291
+15191,-7912822.062999999,5212787.187,6470,"Pear, Callery",Pyrus calleryana,1,3-6in,3.0,--,--,Back Bay/Beacon Hill,150,Huntington Avenue,,8,-71.08209000000001,42.34492,6861
+41162,-7916566.851,5209012.04,16606,"Maple, Norway",Acer platanoides,1,18-24in,21.0,--,Boston,Jamaica Plain,84,Moraine Street,,2,-71.11573,42.31985,15033
+42611,-7920308.299,5203413.528,13331,"Planetree, London",Platanus x acerifolia,1,24-30in,24.0,--,Boston,West Roxbury,108,Stratford Street,,2,-71.14934000000001,42.28265,14602
+10675,-7916453.063999999,5200504.103999999,42191,"Oak, Willow",Quercus phellos,1,0-3in,2.0,Spring 2022,Boston,Hyde Park,440,Huntington Avenue,,2,-71.11471,42.26331,41514
+1139,-7913251.2,5207148.813999999,39353,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Roxbury,15,Wayne Street,,1,-71.08595,42.30747,38657
+2464,-7920614.427999999,5213787.771000001,41309,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Allston-Brighton,333,Market Street,,2,-71.15209,42.35156,42452
+31913,-7914908.191000001,5208032.886,15645,"Pear, Callery",Pyrus calleryana,1,12-18in,12.0,--,Boston,Jamaica Plain,3171,Washington Street,,1,-71.10083,42.313340000000004,16109
+12492,-7909429.045,5204607.546,17520,"Crabapple, Snowdrift",Malus x 'Snowdrift',1,3-6in,3.0,--,Boston,Dorchester,25,Arbroth Street,,1,-71.05161,42.29058,17373
+3426,-7910169.32,5204453.602,25935,Ginkgo,Ginkgo biloba,7,0-3in,1.0,--,Boston,Dorchester,96,Msgr Patrick J Lydon Way,,1,-71.05826,42.289559999999994,25945
+26085,-7911435.022000001,5213407.136,7571,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,9.0,--,--,Central Boston,132,Arlington Street,,2,-71.06963,42.34903,7458
+4448,-7915401.336,5209685.192,34940,"Cherry, Okame",Prunus 'Okame',1,0-3in,2.0,--,Boston,Jamaica Plain,24,Gay Head Street,,2,-71.10526,42.32432,33962
+8568,-7914430.63,5203666.313999999,38848,"Maple, Hedge",Acer campestre,1,0-3in,2.0,Fall 2021,Boston,Mattapan,34,Westmore Road,,1,-71.09654,42.28433,39225
+28782,-7912656.197000001,5206063.593,14112,"Pagoda Tree, Japanese",Sophora japonica,1,6-12in,10.0,--,Boston,Dorchester,36,Harlem Street,,2,-71.0806,42.300259999999994,14366
+27575,-7915495.957,5212298.908,37525,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,10.0,--,Boston,Fenway/Longwood,65,Pilgrim Road,,3,-71.10611,42.34167,37336
+43894,-7920642.257999999,5203059.34,34399,"Oak, Pin",Quercus palustris,1,>30in,34.0,--,Boston,West Roxbury,21,Danville Street,,1,-71.15234,42.2803,34070
+34572,-7919419.97,5203927.231000001,33648,"Maple, Norway",Acer platanoides,1,12-18in,14.0,--,Boston,Roslindale,246,Belgrade Avenue,,1,-71.14135999999999,42.28606,32948
+29352,-7911351.533,5212538.526000001,3,Ginkgo,Ginkgo biloba,1,6-12in,11.0,--,Boston,South End,261,Shawmut Avenue,,1,-71.06888000000001,42.343270000000004,502
+7672,-7921100.449,5202961.842,13014,"Lilac, Japanese Tree",Syringa reticulata,1,0-3in,2.0,--,Boston,West Roxbury,352,Lagrange Street,,1,-71.15646,42.27965,13523
+18159,-7910454.2979999995,5215274.155,4549,"Oak, Pin",Quercus palustris,1,3-6in,4.0,--,--,Central Boston,24,Sudbury Street,,2,-71.06081999999999,42.36143,4516
+23272,-7908457.306,5213908.252,46722,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,7.0,--,Boston,South Boston,200,Pier 4 Blvd,,7,-71.04288000000001,42.35236,42575
+3378,-7909923.304,5212360.958000001,30926,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,0-3in,1.0,--,Boston,South Boston,55,West Broadway,,2,-71.05605,42.34209,32209
+22623,-7913015.759,5211286.586,27417,"Oak, Pin",Quercus palustris,1,6-12in,6.0,--,Boston,Roxbury,53,Windsor Street,,1,-71.08383,42.33495,26921
+26115,-7907862.78,5211558.706,26042,"Ash, Green",Fraxinus pennsylvanica,1,6-12in,9.0,--,Boston,South Boston,187,K Street,,1,-71.03754,42.33676,26048
+41444,-7911402.295,5214991.985,2434,"Basswood, American",Tilia americana,1,18-24in,22.0,--,--,Back Bay/Beacon Hill,77,Revere Street,A,1,-71.06934,42.35955,1444
+24620,-7909280.99,5203444.524,17849,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,8.0,--,Boston,Dorchester,10,Grayson Street,,1,-71.05028,42.28286,18676
+44114,-7908646.469,5211068.985,25953,"Basswood, American",Tilia americana,1,>30in,45.0,--,Boston,South Boston,5,Thomas Park,,1,-71.04458000000001,42.33351,25930
+35831,-7910389.732000001,5202736.76,17402,"Maple, Norway",Acer platanoides,1,12-18in,15.0,--,Boston,Dorchester,83,Hillsdale Street,,2,-71.06024000000001,42.27815,17246
+14513,-7916638.095,5201323.795,31207,"Maple, Red",Acer rubrum,1,3-6in,3.0,--,Boston,Hyde Park,4,Bradlee Park,,1,-71.11636999999999,42.26876,30835
+15814,-7912999.061000001,5210600.972,24776,"Basswood, American",Tilia americana,1,3-6in,4.0,--,Boston,Roxbury,2300,Washington Street,,1,-71.08368,42.3304,22738
+4215,-7917670.116,5203072.43,42924,Apple/Crabapple,Malus species,1,0-3in,2.0,--,Boston,Roslindale,5,Delano Park,,3,-71.12564,42.28038,41022
+1489,-7915326.752,5208052.004,38971,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,5,Minton Street,B,1,-71.10459,42.31347,39333
+19211,-7915303.375,5213094.897,33123,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,3-6in,5.0,--,Boston,Fenway/Longwood,868,Beacon Street,,3,-71.10438,42.346959999999996,32504
+16728,-7914979.435,5213489.527,6215,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,--,Fenway/Longwood,623,Commonwealth Avenue,,1,-71.10146999999999,42.349579999999996,6186
+11601,-7915467.997,5207640.546,43085,"Tupelo, Black",Nyssa sylvatica,1,0-3in,2.0,Spring 2023,Boston,Jamaica Plain,120,Brookside Avenue,,1,-71.10585999999999,42.31074,43353
+18078,-7916361.355,5205643.085,16272,"Oak, Green Pillar Pin",Quercus palustris 'Pringreen',1,3-6in,4.0,--,Boston,Jamaica Plain,69,Wenham Street,,1,-71.11388000000001,42.297470000000004,16966
+41836,-7917961.683999999,5206651.343,15291,"Pagoda Tree, Japanese",Sophora japonica,1,18-24in,22.0,--,Boston,Jamaica Plain,69,Westchester Road,,1,-71.12826,42.304159999999996,15807
+19499,-7915282.781,5209468.682,624,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,Boston,Jamaica Plain,319,Centre Street,B,1,-71.10419,42.32288,1598
+14625,-7911703.302,5206046.134,19304,"Maple, Silver",Acer saccharinum,1,3-6in,3.0,--,Boston,Dorchester,10,Westville Street,,2,-71.07204,42.30014,19517
+28101,-7917918.27,5213947.892,26364,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,Boston,Allston-Brighton,57,Brighton Avenue,,1,-71.12787,42.35262,26822
+17407,-7911487.342999999,5213611.535,7593,"Linden, Littleleaf",Tilia cordata,1,3-6in,4.0,--,--,Back Bay/Beacon Hill,75,Arlington Street,,5,-71.0701,42.350390000000004,8926
+7308,-7915624.494,5204221.733,44533,"Honeylocust, Thornless",Gleditsia triacanthos inermis,1,0-3in,2.0,Fall 2023,Boston,Roslindale,289,Walk Hill Street,,1,-71.10726,42.28802,43686
+22913,-7920563.221,5202321.815,466,"Redbud, Eastern",Cercis canadensis,1,6-12in,6.0,--,Boston,West Roxbury,16,Brier Road,,1,-71.15163000000001,42.27539,960
+28223,-7903978.842999999,5218758.365,4508,"Linden, Littleleaf",Tilia cordata,1,6-12in,10.0,--,--,East Boston,64,Saint Andrew Road,,1,-71.00265,42.38455,4348
+25388,-7916549.04,5209064.885,16453,"Maple, Norway",Acer platanoides,1,6-12in,8.0,--,Boston,Jamaica Plain,79,Moraine Street,,1,-71.11556999999999,42.3202,17425
+21355,-7917506.387,5215600.025,25784,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,6.0,--,Boston,Allston-Brighton,112,Western Avenue,,4,-71.12416999999999,42.36359,25749
+13905,-7919779.531,5203389.454,33612,"Lilac, Japanese Tree",Syringa reticulata,1,3-6in,3.0,--,Boston,Roslindale,126,Colberg Avenue,,1,-71.14459000000001,42.28249,32937
+41569,-7908586.802,5211228.91,10245,"Linden, Littleleaf",Tilia cordata,1,18-24in,22.0,--,Boston,South Boston,46,G Street,,1,-71.04404,42.33457,10128
+11099,-7916545.429,5204704.162,43083,"Serviceberry, Cumulus",Amelanchier laevis 'Cumulus',1,0-3in,2.0,Spring 2023,Boston,Jamaica Plain,32,Bournedale Road,,1,-71.11554,42.29123,43529
+6407,-7909858.293,5203690.69,17716,"Hackberry, Northern",Celtis occidentalis,1,0-3in,2.0,--,Boston,Dorchester,725,Adams Street,,1,-71.05547,42.284490000000005,18380
+28313,-7913649.167,5212821.678,37678,"Linden, Littleleaf",Tilia cordata,1,6-12in,10.0,--,Boston,Fenway/Longwood,49,Hemenway Street,,1,-71.08952,42.34515,39563
+624,-7916879.659,5207392.065,38410,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Jamaica Plain,11,Aldworth Street,,2,-71.11854,42.309090000000005,37788
+27074,-7914899.285,5212331.289,23555,"Oak, Northern Red",Quercus rubra,1,6-12in,9.0,--,Boston,Fenway/Longwood,223,Park Drive,,1,-71.10075,42.34189,24424
+7439,-7910867.531,5208391.412,42164,"Hophornbeam, Eastern",Ostrya virginiana,1,0-3in,2.0,Spring 2022,Boston,Dorchester,29,Cushing Avenue,,1,-71.06453,42.31572,41449
+20230,-7908124.826,5215883.268,37936,"Maple, Freeman",Acer x freemanii,1,3-6in,5.0,--,--,East Boston,35,East Pier Drive,,2,-71.03989,42.36547,39853
+31129,-7908943.692000001,5211504.492,21911,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,South Boston,435,West Broadway,,1,-71.04725,42.3364,20936
+898,-7920243.734,5203119.072,39970,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,275,Park Street,,2,-71.14876,42.28069,38229
+6885,-7911471.757999999,5212795.17,24114,Honeylocust,Gleditsia triacanthos,1,0-3in,2.0,--,Boston,South End,514,Tremont Street,,1,-71.06996,42.34497,23701
+1668,-7911205.259,5204716.046,40387,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Dorchester,91,Centre Street,,1,-71.06756999999999,42.291309999999996,40142
+32794,-7911103.29,5217154.954,4830,"Linden, Littleleaf",Tilia cordata,1,12-18in,13.0,--,--,Charlestown,80,Washington Street,,1,-71.06665,42.373909999999995,4802
+27807,-7913518.9229999995,5213364.057,2223,Honeylocust,Gleditsia triacanthos,1,6-12in,10.0,--,--,Back Bay/Beacon Hill,358,Commonwealth Avenue,,1,-71.08835,42.34875,1483
+34289,-7914464.026000001,5203037.072,21465,"Linden, Littleleaf",Tilia cordata,2,12-18in,14.0,--,Boston,Mattapan,629,Walk Hill Street,,1,-71.09684,42.28015,22238
+25701,-7907299.503,5211152.109,25181,"Oak, Swamp White",Quercus bicolor,1,6-12in,8.0,--,Boston,South Boston,694,East 5th Street,,2,-71.03248,42.33406,25107
+38074,-7919327.129,5205216.274,15273,"Maple, Norway",Acer platanoides,1,12-18in,17.0,--,Boston,West Roxbury,100,Buchanan Road,,2,-71.14053,42.29463,15790
+8321,-7907860.554,5216115.594,5277,"Maple, Amur",Acer ginnala,1,0-3in,2.0,--,--,East Boston,84,Webster Street,,1,-71.03752,42.36701,6323
+18750,-7910909.594,5215423.756,3133,"Zelkova, Japanese",Zelkova serrata,1,3-6in,4.0,--,--,Central Boston,5,Longfellow Place,,5,-71.06491,42.36242,3183
+6551,-7909782.496,5212400.29,44599,"Hackberry, Northern",Celtis occidentalis,1,0-3in,2.0,Spring 2024,Boston,South Boston,45,West 3rd Street,,1,-71.05479,42.34235,43666
+43646,-7912041.714,5212495.904,28947,Horsechestnut,Aesculus hippocastanum,1,>30in,31.0,--,Boston,South End,147,West Canton Street,,1,-71.07508,42.34298,29779
+30002,-7920861.557,5204816.42,14694,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,West Roxbury,21,Alameda Road,,1,-71.15431,42.29197,13701
+33943,-7909848.052,5217317.995,5259,Honeylocust,Gleditsia triacanthos,1,12-18in,14.0,--,--,Charlestown,31,5th Street,,4,-71.05537,42.374990000000004,6185
+13048,-7920172.489,5214167.969,9750,Hardy Rubber Tree,Eucommia ulmoides,1,3-6in,3.0,--,Boston,Allston-Brighton,7,Cushman Road,,1,-71.14811999999999,42.354079999999996,7695
+2865,-7910575.636,5205118.905,38457,Scheduled Planting Site - Fall 2024,Scheduled Planting Site - Fall 2024,0,,0.0,--,Boston,Dorchester,1656,Dorchester Avenue,,1,-71.06191,42.29398,37816
+10592,-7909393.4229999995,5211896.044,26885,"Oak, Willow",Quercus phellos,1,0-3in,2.0,--,Boston,South Boston,275,West Broadway,,1,-71.05129000000001,42.339,26941
+19966,-7908149.427999999,5217843.603999999,5966,"Lilac, Japanese Tree",Syringa reticulata,1,3-6in,5.0,--,--,East Boston,312,Border Street,,7,-71.04012,42.378479999999996,6687
+31184,-7915544.27,5212233.9969999995,27181,Honeylocust,Gleditsia triacanthos,1,12-18in,12.0,--,Boston,Fenway/Longwood,85,Pilgrim Road,,1,-71.10654,42.34124,26439
+15278,-7912051.732000001,5202161.138,9450,Rose-of-Sharon,Hibiscus syriacus,1,3-6in,3.0,--,Boston,Mattapan,181,Manchester Street,,1,-71.07517,42.27433,9005
+15277,-7911756.7360000005,5208820.838,30845,"Redwood, Dawn",Metasequoia glyptostroboides,1,3-6in,3.0,--,Boston,Roxbury,9,Woodward Park Street,,1,-71.07252,42.31858,31585
+16961,-7914653.268999999,5210123.948,23239,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,Boston,Mission Hill,156,Terrace Street,,2,-71.09854,42.32723,24156
+9994,-7914798.205,5209859.096,41796,"Oak, Pin",Quercus palustris,1,0-3in,2.0,Spring 2021,Boston,Jamaica Plain,928,Parker Street,,2,-71.09984,42.32547,41956
+38219,-7921061.932,5204138.799,1883,"Maple, Red",Acer rubrum,1,12-18in,17.0,--,Boston,West Roxbury,111,Corey Street,-115,3,-71.15611,42.28747,2364
+8934,-7907798.215,5211075.31,23607,"Maple, Red",Acer rubrum,1,0-3in,2.0,--,Boston,South Boston,4,Beckler Avenue,,1,-71.03696,42.33355,24515
+21631,-7910861.727000001,5217456.326,934,Honeylocust,Gleditsia triacanthos,1,6-12in,6.0,--,--,Charlestown,169,Main Street,,1,-71.06448,42.37591,30
+20197,-7909923.304,5217566.329,38127,"Maple, Freeman",Acer x freemanii,1,3-6in,5.0,--,--,Charlestown,20,Vine Street,,1,-71.05605,42.37664,37531
+22583,-7911695.51,5212809.629,1767,"Oak, Pin",Quercus palustris,1,6-12in,6.0,--,Boston,South End,51,Warren Avenue,,1,-71.07197,42.34507,2226
+43733,-7911098.281,5205847.467,15918,Ginkgo,Ginkgo biloba,1,>30in,32.0,--,Boston,Dorchester,38,Tonawanda Street,,1,-71.0666,42.29882,16508
+40448,-7918826.637,5204772.779,12158,"Linden, Silver",Tilia tomentosa,1,18-24in,20.0,--,Boston,Roslindale,20,Zeller Street,,1,-71.13603,42.29168,11296
+24622,-7919639.268999999,5212573.768999999,22010,"Elm, Accolade",Ulmus carpinifolia 'accolade',1,6-12in,8.0,--,Boston,Allston-Brighton,1615,Commonwealth Avenue,,4,-71.14333,42.3435,20982
+30332,-7915817.671,5211577.8319999995,707,"Pear, Callery",Pyrus calleryana,1,6-12in,11.0,--,Boston,Fenway/Longwood,121,Francis Street,B,2,-71.109,42.336890000000004,1684
+39968,-7919457.818,5205905.562,15116,"Oak, Pin",Quercus palustris,1,18-24in,19.0,--,Boston,West Roxbury,6,Hackensack Circle,,3,-71.1417,42.299209999999995,14029
+454,-7918186.55,5215332.76,30165,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,Allston-Brighton,226,North Harvard Street,,1,-71.13028,42.36182,30970
+8617,-7911900.783,5212168.635,361,"Maple, Norway",Acer platanoides,1,0-3in,2.0,--,Boston,South End,93,West Brookline Street,a,1,-71.07381,42.34081,855
+30021,-7916702.661,5204809.047,16512,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,Jamaica Plain,211,Wachusett Street,,1,-71.11695,42.291920000000005,17339
+36653,-7915799.86,5209661.102,16216,Honeylocust,Gleditsia triacanthos,1,12-18in,16.0,--,Boston,Jamaica Plain,83,Day Street,,1,-71.10884,42.32416,16934
+37608,-7915884.4629999995,5213745.594,6004,Ginkgo,Ginkgo biloba,1,12-18in,17.0,--,--,Fenway/Longwood,1,University Road,,7,-71.1096,42.351279999999996,7093
+42681,-7922609.272999999,5213183.763,23994,Honeylocust,Gleditsia triacanthos,1,24-30in,25.0,--,Boston,Allston-Brighton,11,Margo Road,,1,-71.17000999999999,42.34755,24894
+32461,-7908160.003,5216416.18,3603,Honeylocust,Gleditsia triacanthos,1,12-18in,13.0,--,--,East Boston,195,Sumner Street,,1,-71.04021,42.369009999999996,2614
+6036,-7911350.42,5204077.706,9225,Ginkgo,Ginkgo biloba,1,0-3in,2.0,--,Boston,Dorchester,26,Harley Street,,2,-71.06886999999999,42.28706,8174
+30829,-7916930.42,5203213.412,31859,"Cherry, Japanese Flowering",Prunus serrulata,1,12-18in,12.0,--,Boston,Roslindale,555,Hyde Park Avenue,,1,-71.119,42.28132,30226
+16293,-7909100.653,5213460.909,30881,"Elm, American",Ulmus americana,1,3-6in,4.0,--,Boston,South Boston,321,Summer Street,,2,-71.04866,42.34939,32284
+20603,-7914110.03,5209082.048,22242,"Oak, Northern Red",Quercus rubra,1,3-6in,5.0,--,Boston,Roxbury,2870,Washington Street,,3,-71.09366,42.32031,21217
+19489,-7912497.01,5213507.151000001,2515,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,--,Back Bay/Beacon Hill,691,Boylston Street,,3,-71.07916999999999,42.3497,1475
+26445,-7911133.903,5215077.705,8810,Honeylocust,Gleditsia triacanthos,1,6-12in,9.0,--,--,Back Bay/Beacon Hill,41,Garden Street,,2,-71.06693,42.36012,8597
+35605,-7911860.262999999,5213007.84,6739,"Linden, Littleleaf",Tilia cordata,1,12-18in,15.0,--,--,South End,58,Clarendon Street,,2,-71.07345,42.346379999999996,5209
+24412,-7916556.832,5206832.717,15633,Apple/Crabapple,Malus species,1,6-12in,8.0,--,Boston,Jamaica Plain,245,Metcalf Court,,1,-71.11564,42.30537,16097
+24420,-7912767.517000001,5202216.351,21834,Apple/Crabapple,Malus species,5,6-12in,8.0,--,Boston,Mattapan,61,Woodruff Way,,1,-71.0816,42.27469,20854
+15079,-7904257.142000001,5219143.887,130,"Oak, Willow",Quercus phellos,1,3-6in,3.0,--,--,East Boston,0,Bennington Street,,7,-71.00515,42.38711,624
+36426,-7909192.38,5211558.706,26846,"Ash, Green",Fraxinus pennsylvanica,1,12-18in,16.0,--,Boston,South Boston,376,West Fourth Street,,1,-71.04948,42.33676,26708
+43130,-7920173.046,5212593.047,36862,"Basswood, American",Tilia americana,1,24-30in,27.0,--,Boston,Allston-Brighton,111,Nottinghill Road,,1,-71.14811999999999,42.34363,36875
+839,-7920434.09,5202395.384,39905,Empty Pit/Planting Site,Empty Pit/Planting Site,0,,0.0,--,Boston,West Roxbury,183,Lagrange Street,,1,-71.15047,42.27588,38163
+34906,-7914018.748,5210515.142,548,"Planetree, London",Platanus x acerifolia,1,12-18in,14.0,--,Boston,Roxbury,19,Centre Street,a,1,-71.09284,42.32983,1542
+16718,-7911190.12,5213688.807,5996,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,--,Central Boston,1,Charles Street South,,1,-71.06743,42.3509,5595
+19594,-7911094.83,5213417.529,7672,Honeylocust,Gleditsia triacanthos,1,3-6in,5.0,--,--,Central Boston,125,Charles Street South,,1,-71.06657,42.3491,8932
+10822,-7921061.932,5200313.998,12438,"Redbud, Eastern",Cercis canadensis,1,0-3in,2.0,Spring 2024,Boston,West Roxbury,5168,Washington Street,,1,-71.15611,42.26205,12253
+16723,-7903793.385,5219783.847,5224,Honeylocust,Gleditsia triacanthos,1,3-6in,4.0,--,--,East Boston,65,Waldemar Avenue,,1,-71.00098,42.39135,5903
+16019,-7920842.632999999,5202739.468,13043,"Chokecherry, Common",Prunus virginiana,3,3-6in,4.0,--,Boston,West Roxbury,287,Lagrange Street,,1,-71.15414,42.27817,14377
+3789,-7912592.745,5213615.15,2934,"Oak, Northern Red",Quercus rubra,1,0-3in,1.0,--,--,Back Bay/Beacon Hill,195,Newbury Street,,1,-71.08003000000001,42.35041,4420
+29972,-7911312.571,5204904.757,9591,"Maple, Norway",Acer platanoides,1,6-12in,11.0,--,Boston,Dorchester,68,Kenwood Street,,1,-71.06853000000001,42.292559999999995,7535
+33006,-7917713.442000001,5206514.675,15316,"Maple, Norway",Acer platanoides,1,12-18in,13.0,--,Boston,Jamaica Plain,19,Westchester Road,,1,-71.12603,42.303259999999995,15861
+35314,-7908293.03,5216818.935,3567,Honeylocust,Gleditsia triacanthos,1,12-18in,15.0,--,--,East Boston,62,Liverpool Street,,2,-71.0414,42.37168,2535
+9666,-7910841.174,5215944.268,42812,"Oak, Northern Red",Quercus rubra,1,0-3in,2.0,--,--,Central Boston,2,Nashua Street,,5,-71.06429,42.36588,40884
+30446,-7918065.211,5203585.06,29580,"Pear, Callery",Pyrus calleryana,1,6-12in,11.0,--,Boston,Roslindale,36,Kittredge Street,,1,-71.12919000000001,42.28379,28574
