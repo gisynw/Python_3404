@@ -99,7 +99,7 @@ nav:
       - Anaconda: "software/Anaconda.ipynb"
     - Lectures:
       - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
-      # - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
+      - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
       # - Week 3 Python Fundamental 2: "Lectures/Week03/Week03Fundamental02.ipynb"
       # - Week 4 Pandas: "Lectures/Week04/Student_Week04_Pandas.ipynb"
       # - Week 5 Data Visualization: "Lectures/Week05_visualization/Student_Week05_visualization.ipynb"
