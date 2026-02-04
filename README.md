@@ -6,7 +6,7 @@ Hi there! Welcome to my GitHub repository where I share my lecture. I'm excited 
 
 ## About Me
 
-I am a Assistant Professor in [Geography Department](https://uca.edu/geography/) at [The Univeristy of Central Arkansas](https://uca.edu/). 
+I am an Assistant Professor (AP) in [Geography Department](https://uca.edu/geography/) at [The University of Central Arkansas](https://uca.edu/). 
 
 I hold a Ph.D. from the [Department of Geospatial Information Sciences](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/) at the [University of Texas at Dallas](https://www.utdallas.edu/) (德州大学达拉斯分校).
 
