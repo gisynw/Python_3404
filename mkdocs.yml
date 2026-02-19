@@ -102,7 +102,7 @@ nav:
       - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
       - Week 5 Python Fundamental 2: "Lectures/Week03/Week03Fundamental02_Student.ipynb"
       - Week 6 Pandas: "Lectures/Week4/Week04_Pandas_Student.ipynb"
-      # - Week 5 Data Visualization: "Lectures/Week05_visualization/Student_Week05_visualization.ipynb"
+      - Week 7 Data Visualization: "Lectures/Week05_visualization/Week05_visualization_student.ipynb"
       # - Week 6 Data Visualization Part 02: "Lectures/Week06_visualizationPart02/Week06_Data_Visualization.ipynb"
       # - Week 7 Spatial Analysis in Arcpy: "Lectures/Week07/Week07_Arcpy.ipynb"
       # - Week 10 Raster: "Lectures/Week10_Geopandas_Raster/Week10_raster_Student.ipynb"
